@@ -23,7 +23,6 @@ class UsuarioWeb(SuperUser):
         self.newOrRecurrent = newOrRecurrent
         self.local_logger = logging.getLogger('super_logger')
         self.local_logger.setLevel(logging.DEBUG)
-        print("pase el init")
 
     def getUserParameters(self):
         a = self.userType.getUser()

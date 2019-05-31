@@ -42,7 +42,7 @@ class GestorUsuarios(object):
         userWebTmp = None
 
         try:
-            while timeRest < timeSeconds:
+            while timeRest < 120:
                 self.setProxies()
                 #print('[X] -- Obtiene tipo de usuario')
                 typeUser = self.getTypeUser()
