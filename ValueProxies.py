@@ -12,7 +12,7 @@ from fake_useragent import UserAgent
 from Log import Log
 import numpy as np
 
-#cliente = MongoClient()
+cliente = MongoClient()
 
 class ValueProxies():
     """docstring for ValueProxies"""
@@ -57,13 +57,13 @@ class ValueProxies():
                 res = 1
                 ipactual=respuesta.json()
                 print("aaasssssss")
-                #db = cliente.ip
-                #db.actual.insert_one[ipactual]
+                db = cliente.ip
+                db.actual.insert_one[ipactual]
                 print("bbbb")
-                #cliente.close()
+                cliente.close()
                 print("cccc")
             except Exception as e:
-                #cliente.close()
+                cliente.close()
                 #print("Supero el timeout")
                 intentos += 1
                 #print("Intntos", intentos)
