@@ -16,12 +16,13 @@ print("aaa")
 class GestorUsuarios(object):
     """docstring for GestorUsuarios"""
     def __init__(self,recurrents):
+        print("init")
         super(GestorUsuarios, self).__init__()
         # self.userWeb = None
         PAUSE = 3
         FAILSAFE = False
         self.DICTIONARY_USERS = self.__setUsers(recurrents)
-
+        print("voy a la mitad")
         self.local_logger = logging.getLogger('super_logger')
         self.local_logger.setLevel(logging.DEBUG)
         self.local_logger.setLevel(logging.INFO)
