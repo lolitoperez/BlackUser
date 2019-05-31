@@ -44,7 +44,7 @@ class GestorUsuarios(object):
         try:
             while timeRest < timeSeconds:
                 self.setProxies()
-                print(timeRestm)
+                print(timeRest)
                 #print('[X] -- Obtiene tipo de usuario')
                 typeUser = self.getTypeUser()
                 #proxy = self.listProxies[randrange(0, len(self.listProxies))]
