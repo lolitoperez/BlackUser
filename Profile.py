@@ -43,33 +43,10 @@ class Profile(object):
             self.document = self.document.replace(parameterReplace.group(0), '')
 
     def saveProfile(self, userAgent=None, userType=None):
-        connection = self.__mongoconexion()
-        db_name = self.__set_database(connection)
-        if self.LOAD_PROFILE:
-            db_name[self.MONGODB_COLLECTION].update({'_id':self.userProfile['_id']},{'$set':{'cookies':self.__getCookies()}})
-        else:
-            dictInsert = {'userAgent':userAgent, 'cookies':self.__getCookies(), 'userType':userType}
-            db_name[self.MONGODB_COLLECTION].insert(dictInsert)
-
-        connection.close()
+        pass
 
     def loadProfile(self, userType=None):
         self.LOAD_PROFILE = True
-        connection = self.__mongoconexion()
-        db_name = self.__set_database(connection)
-        self.userProfile = db_name[self.MONGODB_COLLECTION].aggregate([{'$sample':{'size':1}}])
-        # self.userProfile = db_name[self.MONGODB_COLLECTION].aggregate([
-        #                                                               {'$match':{
-        #                                                                           'userType':userType
-        #                                                                         }
-        #                                                               },
-        #                                                               {
-        #                                                               '$sample':{
-        #                                                                           'size':1
-        #                                                                         }
-        #                                                               }
-        #                                                             ])
-        self.userProfile = list(self.userProfile)[0]
         cookies = popen('cd '+self.PATH_FILE+'; pwd').read()
         cookies = cookies.replace('\n','')  
         system("cd "+self.PATH_FILE+"; rm cookies.sqlite; touch cookies.sqlite;")

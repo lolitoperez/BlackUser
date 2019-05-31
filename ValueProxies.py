@@ -3,7 +3,7 @@ import pyautogui
 import os
 import requests
 from sys import platform
-
+from pymongo import MongoClient
 pyautogui.PAUSE=2
 pyautogui.FAILSAFE=False
 
@@ -11,6 +11,9 @@ from requests import get
 from fake_useragent import UserAgent
 from Log import Log
 import numpy as np
+
+cliente = MongoClient()
+db = cliente.IP
 
 class ValueProxies():
     """docstring for ValueProxies"""
@@ -53,6 +56,7 @@ class ValueProxies():
                 respuesta = session.get('http://ipinfo.io/json')
                 res = 1
                 ipactual=respuesta.json()
+                db.actual.insert_one[ipactual]
             except Exception as e:
                 #print("Supero el timeout")
                 intentos += 1
