@@ -59,13 +59,15 @@ class ValueProxies():
                 db = cliente.ip
                 ipguardadas = []
                 algo = db.actual.find({})
-                for ip in algo:
-                    ipguardadas.append(ip['ip'])
-                if ipactual['ip'] not in ipguardadas:
-                    db.actual.insert_one(ipactual)
+                try:
+                    for ip in algo:
+                        ipguardadas.append(ip['ip'])
+                    if ipactual['ip'] not in ipguardadas:
+                        db.actual.insert_one(ipactual)
+                except:
                 cliente.close()
             except Exception as e:
-                print("asasasasas")
+                print(e)
                 system('echo "DarkUser5" | sudo -S pkill mongod')
                 system('rm -r mongo.out')
                 cliente.close()
