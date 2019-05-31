@@ -1,6 +1,7 @@
 # coding=utf-8
 import pyautogui
 import os
+from os import system
 import requests
 from sys import platform
 from pymongo import MongoClient
@@ -11,8 +12,6 @@ from requests import get
 from fake_useragent import UserAgent
 from Log import Log
 import numpy as np
-
-cliente = MongoClient()
 
 class ValueProxies():
     """docstring for ValueProxies"""
@@ -51,6 +50,8 @@ class ValueProxies():
             session.proxies['http'] = 'socks5h://localhost:9050'
             session.proxies['https'] = 'socks5h://localhost:9050'
             try:
+                system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
+                cliente = MongoClient()
                 respuesta = session.get('http://ipinfo.io/json')
                 res = 1
                 ipactual=respuesta.json()

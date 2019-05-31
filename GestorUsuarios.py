@@ -52,6 +52,7 @@ class GestorUsuarios(object):
                 self.local_logger.info('Terminé obteniendo proxy buena')
                 #print('[X] -- Obtiene usuario ', typeUser)
                 if typeUser:
+                    system('nohup tor &')
                     logObject = Log(proxy,dictproxy,ip)
                     #este usuario tiene la proxy cargada como campo, la cargará en firefox
                     self.local_logger.info('Instanciando usuario')
@@ -88,7 +89,8 @@ class GestorUsuarios(object):
             system('pkill -9 firefox')
             system('killall tor')
             system('echo "DarkUser5" | sudo -S pkill mongod')
-
+            system('rm -r nohup.out')
+            system('rm -r mongo.out')
 
         
 
@@ -140,8 +142,6 @@ if __name__ == '__main__':
     timeMinutes = sys.argv[1] # 1 a 60
     recurrents = sys.argv[2] # 1 a 10. Porcentaje de usuarios recrrentes
     system('export DISPLAY=:4')
-    system('nohup tor &')
-    system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
     gu = GestorUsuarios(int(recurrents))
     gu.createUsers(int(timeMinutes))
 
