@@ -21,7 +21,7 @@ class ValueProxies():
         self.Log=Log
 
     def getProxies(self):
-        sopotamadre2 = 127.0.0.1:9050
+        sopotamadre2 = '127.0.0.1:9050'
         #print('----------------',sopotamadre2)
         return sopotamadre2
 
