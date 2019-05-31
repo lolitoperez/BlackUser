@@ -30,7 +30,10 @@ class Log(object):
 		self.cookie['Camino'] += [eleccion]
 
 	def endCookie(self):
-		self.cookie['ID'] = self.cookie['proxy']+'---'+self.cookie['user_agen']
-		self.cookie['Fin'] = datetime.now()
-		self.cookie['Duracion'] = str(self.cookie['Fin']-self.cookie['Inicio'])
+		try:
+			self.cookie['ID'] = self.cookie['proxy']+'---'+self.cookie['user_agen']
+			self.cookie['Fin'] = datetime.now()
+			self.cookie['Duracion'] = str(self.cookie['Fin']-self.cookie['Inicio'])
+		except:
+			pass
 

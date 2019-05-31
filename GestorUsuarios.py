@@ -68,14 +68,14 @@ class GestorUsuarios(object):
                     system('pkill -9 firefox')
                     system('killall tor')
                     system('echo "DarkUser5" | sudo -S pkill mongod')
-                    system('rm -r nohup.out')
-                    system('rm -r mongo.out')
+                    system('echo "DarkUser5" | sudo -S rm -r nohup.out')
+                    system('echo "DarkUser5" | sudo -S rm -r mongo.out')
                     # userWebTmp = copy(userWeb)
                     # del userWeb
                 else:
                     timesExecute = timesExecute + 1
                     system('echo "DarkUser5" | sudo -S pkill mongod')
-                    system('rm -r mongo.out')
+                    system('echo "DarkUser5" | sudo -S rm -r mongo.out')
 
                 if timesExecute == 4:
                     break
