@@ -14,7 +14,6 @@ class UsuarioWeb(SuperUser):
     """docstring for UsuarioWeb"""
     def __init__(self, userType, proxie, newOrRecurrent,Log=None):
         super(UsuarioWeb, self).__init__()
-        
         self.USER_TYPE = userType
         self.proxies = ValueProxies()
         self.profile = Profile(newOrRecurrent)
@@ -24,6 +23,7 @@ class UsuarioWeb(SuperUser):
         self.newOrRecurrent = newOrRecurrent
         self.local_logger = logging.getLogger('super_logger')
         self.local_logger.setLevel(logging.DEBUG)
+        print("pase el init")
 
     def getUserParameters(self):
         a = self.userType.getUser()

@@ -55,11 +55,10 @@ class GestorUsuarios(object):
                     logObject = Log(proxy,dictproxy,ip)
                     #este usuario tiene la proxy cargada como campo, la cargará en firefox
                     self.local_logger.info('Instanciando usuario')
-                    print("aaaa")
                     userWeb = UsuarioWeb(typeUser, proxy, self.__getUsers(), logObject)
                     self.local_logger.info('Fin instancia objeto')
                     self.local_logger.info('Iniciando processUser')
-                    print("bbb")
+                    print(userWeb)
                     self.proccessUser(userWeb)
                     print("cccc")
                     self.local_logger.info('Iniciando usuario')
