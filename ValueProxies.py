@@ -47,6 +47,7 @@ class ValueProxies():
         intentos = 0
         puerto = '9050'
         res  = None
+        print("aaaaaaaaa")
         while not res:
             session = requests.session()
             session.proxies = {}
