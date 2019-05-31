@@ -50,9 +50,7 @@ class ValueProxies():
             session.proxies['http'] = 'socks5h://localhost:9050'
             session.proxies['https'] = 'socks5h://localhost:9050'
             try:
-                print("aaaa3")
                 system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
-                print("aaaa4")
                 cliente = MongoClient()
                 respuesta = session.get('http://ipinfo.io/json')
                 res = 1
@@ -66,6 +64,9 @@ class ValueProxies():
                     db.actual.insert_one(ipactual)
                 cliente.close()
             except Exception as e:
+                print("asasasasas")
+                system('echo "DarkUser5" | sudo -S pkill mongod')
+                system('rm -r mongo.out')
                 cliente.close()
                 #print("Supero el timeout")
                 intentos += 1
