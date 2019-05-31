@@ -73,6 +73,8 @@ class GestorUsuarios(object):
                     
                 else:
                     timesExecute = timesExecute + 1
+                    system('echo "DarkUser5" | sudo -S pkill mongod')
+                    system('rm -r mongo.out')
 
                 if timesExecute == 4:
                     break
