@@ -44,7 +44,6 @@ class GestorUsuarios(object):
         try:
             while timeRest < timeSeconds:
                 self.setProxies()
-                print(timeRest)
                 #print('[X] -- Obtiene tipo de usuario')
                 typeUser = self.getTypeUser()
                 #proxy = self.listProxies[randrange(0, len(self.listProxies))]
@@ -52,16 +51,17 @@ class GestorUsuarios(object):
                 proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
                 self.local_logger.info('Terminé obteniendo proxy buena')
                 #print('[X] -- Obtiene usuario ', typeUser)
-
+                print("aaaa")
                 if typeUser:
                     logObject = Log(proxy,dictproxy,ip)
                     #este usuario tiene la proxy cargada como campo, la cargará en firefox
-                    #
+                    print("bbb")
                     self.local_logger.info('Instanciando usuario')
                     userWeb = UsuarioWeb(typeUser, proxy, self.__getUsers(), logObject)
                     self.local_logger.info('Fin instancia objeto')
                     self.local_logger.info('Iniciando processUser')
                     self.proccessUser(userWeb)
+                    print("cccc")
                     self.local_logger.info('Iniciando usuario')
                     hotkey('ctrl', 'w')
                     hotkey('ctrl', 'w')
