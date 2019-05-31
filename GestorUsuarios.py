@@ -66,6 +66,8 @@ class GestorUsuarios(object):
                     hotkey('ctrl', 'w')
                     hotkey('ctrl', 'w')
                     system('pkill -9 firefox')
+                    system('killall tor')
+                    system('echo "DarkUser5" | sudo -S pkill mongod')
                     # userWebTmp = copy(userWeb)
                     # del userWeb
                     
@@ -85,6 +87,8 @@ class GestorUsuarios(object):
             hotkey('ctrl', 'w')
             hotkey('ctrl', 'w')
             system('pkill -9 firefox')
+            system('killall tor')
+            system('echo "DarkUser5" | sudo -S pkill mongod')
 
 
         
