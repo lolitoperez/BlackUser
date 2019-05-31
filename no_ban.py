@@ -1,8 +1,7 @@
 from pymongo import MongoClient
 import time
 import requests
-
-
+from os import system
 
 class Saca:
 
@@ -82,5 +81,5 @@ class Saca:
         return 'mx.smartproxy.com:'+puerto , ipactual
 
 
-while():
+while 1:
     Saca.obtener_proxy_buena()
