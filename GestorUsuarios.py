@@ -12,7 +12,7 @@ import logging
 from logging import handlers
 from getpass import getuser
 
-
+print("aaa")
 class GestorUsuarios(object):
     """docstring for GestorUsuarios"""
     def __init__(self,recurrents):
@@ -26,7 +26,6 @@ class GestorUsuarios(object):
         self.local_logger.setLevel(logging.DEBUG)
         self.local_logger.setLevel(logging.INFO)
         self.local_logger.setLevel(logging.WARNING)
-
         handler = handlers.TimedRotatingFileHandler('/home/'+getuser()+'/BlackUser/logs_superuser.txt', when='midnight')
         formater = logging.Formatter("%(asctime)s — %(name)s — %(levelname)s — %(funcName)s:%(lineno)d — %(message)s")
         handler.setFormatter(formater)
@@ -34,17 +33,20 @@ class GestorUsuarios(object):
         self.proxy_manager = ValueProxies()
         self.listProxies = []
         self.users = {'padreSonador': {'rangeTime':range(0,24), 'typeUser':'padreSonador'}, 'solteraPlanificadora': {'rangeTime':range(0,24), 'typeUser':'solteraPlanificadora'},'mamaPrimeriza': {'rangeTime':range(0,24), 'typeUser':'mamaPrimeriza'},'inversionista2': {'rangeTime':range(0,24), 'typeUser':'inversionista2'},'solteroAfterOffice': {'rangeTime':range(0,24), 'typeUser':'solteroAfterOffice'},'padreAbuelo': {'rangeTime':range(0,24), 'typeUser':'padreAbuelo'}}
+        print("PASE EL init")
 
     def createUsers(self, timeMinutes):
         ip = self.__get_ip()
-        
+        print("creo usuario")
         startTime = datetime.now()
         timeSeconds = timeMinutes*60
         timeRest = 0 
         timesExecute = 0
         userWebTmp = None
+        print("cree usuario")
 
         try:
+            print("holaaaaaaa")
             while timeRest < timeSeconds:
                 self.setProxies()
 
