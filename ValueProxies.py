@@ -109,7 +109,7 @@ class ValueProxies():
                 cliente.close()
             except Exception as e:
                 system('killall tor')
-                time.sleep(2)
+                time.sleep(0.2)
                 system('echo "DarkUser5" | sudo -S rm -r nohup.out')
                 cliente.close()
                 #print("Supero el timeout")
