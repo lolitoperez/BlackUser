@@ -13,62 +13,61 @@ from Log import Log
 import numpy as np
 
 class ValueProxies():
-	"""docstring for ValueProxies"""
-	def __init__(self):
-		super(ValueProxies, self).__init__()
-		self.OPERATING_SYSTEM = self.__getOperatingSystem()
-		self.user_agent = UserAgent()
-		self.Log=Log
+    """docstring for ValueProxies"""
+    def __init__(self):
+        super(ValueProxies, self).__init__()
+        self.OPERATING_SYSTEM = self.__getOperatingSystem()
+        self.user_agent = UserAgent()
+        self.Log=Log
 
-	def getProxies(self):
+    def getProxies(self):
+        sopotamadre2 = 127.0.0.1:9050
+        #print('----------------',sopotamadre2)
+        return sopotamadre2
 
-		sopotamadre2 = 127.0.0.1:9050
-		#print('----------------',sopotamadre2)
-		return sopotamadre2
+    def evaluate_proxy(self):
+        pass
 
-	def evaluate_proxy(self):
-		pass
+    def __getOperatingSystem(self):
 
-	def __getOperatingSystem(self):
+        # Regresa el sistema operativo en el que se está ejecutando
+        if platform == "linux" or platform == "linux2":
+        # linux
+            return 'linux'
+        elif platform == "darwin":
+        # OS X
+            return 'darwin'
+        # elif platform == "win32":
 
-		# Regresa el sistema operativo en el que se está ejecutando
-		if platform == "linux" or platform == "linux2":
-		# linux
-			return 'linux'
-		elif platform == "darwin":
-		# OS X
-			return 'darwin'
-		# elif platform == "win32":
+    def obtener_proxy_buena(self, verbose=False):
+        #print("algo")
+        intentos = 0
+        puerto = '9050'
+        res  = None
+        while not res:
+            session = requests.session()
+            session.proxies = {}
+            session.proxies['http'] = 'socks5h://localhost:9050'
+            session.proxies['https'] = 'socks5h://localhost:9050'
+            try:
+                respuesta = session.get('http://ipinfo.io/json')
+                res = 1
+                ipactual=respuesta.json()
+            except Exception as e:
+                #print("Supero el timeout")
+                intentos += 1
+                #print("Intntos", intentos)
+        return 'mx.smartproxy.com:'+puerto , ipactual
 
-	def obtener_proxy_buena(self, verbose=False):
-		#print("algo")
-		intentos = 0
-		puerto = '9050'
-		res  = None
-		while not res:
-			session = requests.session()
-			session.proxies = {}
-			session.proxies['http'] = 'socks5h://localhost:9050'
-			session.proxies['https'] = 'socks5h://localhost:9050'
-			try:
-				respuesta = session.get('http://ipinfo.io/json')
-				res = 1
-				ipactual=respuesta.json()
-			except Exception as e:
-				#print("Supero el timeout")
-				intentos += 1
-				#print("Intntos", intentos)
-		return 'mx.smartproxy.com:'+puerto , ipactual
+    def obtener_puerto_aleatoreo(self):
+        return str(str(np.random.randint(20001,29999)))
 
-	def obtener_puerto_aleatoreo(self):
-		return str(str(np.random.randint(20001,29999)))
-
-	def obtener_nuevo_diccionario_proxies(self, puerto=None):
-		if not puerto:
-			puerto = self.obtener_puerto_aleatoreo()
-		proxy_dict = {
-			'http': 'socks5h://localhost:9050',
-			'https': 'socks5h://localhost:9050'
-		}
-		return proxy_dict
-	
+    def obtener_nuevo_diccionario_proxies(self, puerto=None):
+        if not puerto:
+            puerto = self.obtener_puerto_aleatoreo()
+        proxy_dict = {
+            'http': 'socks5h://localhost:9050',
+            'https': 'socks5h://localhost:9050'
+        }
+        return proxy_dict
+    
