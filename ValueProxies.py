@@ -56,7 +56,7 @@ class ValueProxies():
                 respuesta = session.get('http://ipinfo.io/json')
                 res = 1
                 ipactual=respuesta.json()
-                print("aaa")
+                print("aaasssssss")
                 #db = cliente.ip
                 #db.actual.insert_one[ipactual]
                 print("bbbb")
