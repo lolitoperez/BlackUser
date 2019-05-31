@@ -1,0 +1,936 @@
+
+2019-05-29 05:30:07,070 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 05:30:07,071 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 05:30:07,071 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 05:30:07,071 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 05:30:07,071 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 27479 Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.83 Mobile (su) Safari/537.36
+2019-05-29 05:30:07,079 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 05:30:07,079 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 05:30:07,079 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 05:30:07,079 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 05:30:22,091 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 05:30:22,091 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 05:30:24,094 — super_logger — INFO — searchKeyBoard:49 — Empezando intentos de busqueda del cuadro de inicio de sesión
+2019-05-29 05:30:24,094 — super_logger — INFO — searchKeyBoard:51 — Intento 0
+2019-05-29 05:30:24,178 — super_logger — INFO — searchKeyBoard:51 — Intento 1
+2019-05-29 05:30:24,253 — super_logger — INFO — searchKeyBoard:51 — Intento 2
+2019-05-29 05:30:24,328 — super_logger — INFO — searchKeyBoard:51 — Intento 3
+2019-05-29 05:30:24,404 — super_logger — INFO — searchKeyBoard:51 — Intento 4
+2019-05-29 05:30:24,478 — super_logger — INFO — searchKeyBoard:51 — Intento 5
+2019-05-29 05:30:24,554 — super_logger — INFO — searchKeyBoard:51 — Intento 6
+2019-05-29 05:30:24,627 — super_logger — INFO — searchKeyBoard:51 — Intento 7
+2019-05-29 05:30:24,702 — super_logger — INFO — searchKeyBoard:51 — Intento 8
+2019-05-29 05:30:24,776 — super_logger — INFO — searchKeyBoard:51 — Intento 9
+2019-05-29 05:30:24,860 — super_logger — INFO — searchKeyBoard:51 — Intento 10
+2019-05-29 05:30:24,940 — super_logger — INFO — searchKeyBoard:51 — Intento 11
+2019-05-29 05:30:25,031 — super_logger — INFO — searchKeyBoard:51 — Intento 12
+2019-05-29 05:30:25,111 — super_logger — INFO — searchKeyBoard:51 — Intento 13
+2019-05-29 05:30:25,189 — super_logger — INFO — searchKeyBoard:51 — Intento 14
+2019-05-29 05:30:25,280 — super_logger — INFO — searchKeyBoard:51 — Intento 15
+2019-05-29 05:30:25,354 — super_logger — INFO — searchKeyBoard:51 — Intento 16
+2019-05-29 05:30:25,435 — super_logger — INFO — searchKeyBoard:51 — Intento 17
+2019-05-29 05:30:25,509 — super_logger — INFO — searchKeyBoard:51 — Intento 18
+2019-05-29 05:30:25,582 — super_logger — INFO — searchKeyBoard:51 — Intento 19
+2019-05-29 05:30:25,656 — super_logger — INFO — searchKeyBoard:51 — Intento 20
+2019-05-29 05:30:25,730 — super_logger — INFO — searchKeyBoard:51 — Intento 21
+2019-05-29 05:30:25,824 — super_logger — INFO — searchKeyBoard:51 — Intento 22
+2019-05-29 05:30:25,905 — super_logger — INFO — searchKeyBoard:51 — Intento 23
+2019-05-29 05:30:25,978 — super_logger — INFO — searchKeyBoard:51 — Intento 24
+2019-05-29 05:30:26,052 — super_logger — INFO — searchKeyBoard:51 — Intento 25
+2019-05-29 05:30:26,127 — super_logger — INFO — searchKeyBoard:51 — Intento 26
+2019-05-29 05:30:26,201 — super_logger — INFO — searchKeyBoard:51 — Intento 27
+2019-05-29 05:30:26,276 — super_logger — INFO — searchKeyBoard:51 — Intento 28
+2019-05-29 05:30:26,351 — super_logger — INFO — searchKeyBoard:51 — Intento 29
+2019-05-29 05:30:26,424 — super_logger — INFO — searchKeyBoard:51 — Intento 30
+2019-05-29 05:30:26,498 — super_logger — INFO — searchKeyBoard:51 — Intento 31
+2019-05-29 05:30:26,572 — super_logger — INFO — searchKeyBoard:51 — Intento 32
+2019-05-29 05:30:26,646 — super_logger — INFO — searchKeyBoard:51 — Intento 33
+2019-05-29 05:30:26,721 — super_logger — INFO — searchKeyBoard:51 — Intento 34
+2019-05-29 05:30:26,794 — super_logger — INFO — searchKeyBoard:51 — Intento 35
+2019-05-29 05:30:26,870 — super_logger — INFO — searchKeyBoard:51 — Intento 36
+2019-05-29 05:30:26,951 — super_logger — INFO — searchKeyBoard:51 — Intento 37
+2019-05-29 05:30:27,025 — super_logger — INFO — searchKeyBoard:51 — Intento 38
+2019-05-29 05:30:27,099 — super_logger — INFO — searchKeyBoard:51 — Intento 39
+2019-05-29 05:30:27,175 — super_logger — INFO — searchKeyBoard:51 — Intento 40
+2019-05-29 05:30:27,259 — super_logger — INFO — searchKeyBoard:51 — Intento 41
+2019-05-29 05:30:27,334 — super_logger — INFO — searchKeyBoard:51 — Intento 42
+2019-05-29 05:30:27,409 — super_logger — INFO — searchKeyBoard:51 — Intento 43
+2019-05-29 05:30:27,482 — super_logger — INFO — searchKeyBoard:51 — Intento 44
+2019-05-29 05:30:27,555 — super_logger — INFO — searchKeyBoard:51 — Intento 45
+2019-05-29 05:30:27,630 — super_logger — INFO — searchKeyBoard:51 — Intento 46
+2019-05-29 05:30:27,704 — super_logger — INFO — searchKeyBoard:51 — Intento 47
+2019-05-29 05:30:27,779 — super_logger — INFO — searchKeyBoard:51 — Intento 48
+2019-05-29 05:30:27,853 — super_logger — INFO — searchKeyBoard:51 — Intento 49
+2019-05-29 05:30:27,927 — super_logger — INFO — searchKeyBoard:51 — Intento 50
+2019-05-29 05:30:28,000 — super_logger — INFO — searchKeyBoard:51 — Intento 51
+2019-05-29 05:30:28,073 — super_logger — INFO — searchKeyBoard:51 — Intento 52
+2019-05-29 05:30:28,149 — super_logger — INFO — searchKeyBoard:51 — Intento 53
+2019-05-29 05:30:28,224 — super_logger — INFO — searchKeyBoard:51 — Intento 54
+2019-05-29 05:30:28,298 — super_logger — INFO — searchKeyBoard:51 — Intento 55
+2019-05-29 05:30:28,372 — super_logger — INFO — searchKeyBoard:51 — Intento 56
+2019-05-29 05:30:28,459 — super_logger — INFO — searchKeyBoard:51 — Intento 57
+2019-05-29 05:30:28,533 — super_logger — INFO — searchKeyBoard:51 — Intento 58
+2019-05-29 05:30:28,609 — super_logger — INFO — searchKeyBoard:51 — Intento 59
+2019-05-29 05:30:28,684 — super_logger — INFO — searchKeyBoard:59 — No encontré la imagen
+2019-05-29 05:30:28,685 — super_logger — INFO — search:44 — No pude iniciar sesión
+2019-05-29 05:30:36,698 — super_logger — INFO — navigateToPage:128 — No pude iniciar sesion en el proxy o no pude realizar la búsqueda de google
+2019-05-29 05:30:36,698 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 05:30:39,365 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 05:37:40,432 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 05:37:40,432 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 05:37:40,432 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 05:37:40,433 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 05:37:40,433 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 24556 Mozilla/5.0 (Linux; Android 8.0.0; F5121 Build/34.4.A.2.19) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile (su) Safari/537.36
+2019-05-29 05:37:40,445 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 05:37:40,445 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 05:37:40,445 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 05:37:40,445 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 05:37:55,452 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 05:37:55,452 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 05:37:57,456 — super_logger — INFO — searchKeyBoard:49 — Empezando intentos de busqueda del cuadro de inicio de sesión
+2019-05-29 05:37:57,456 — super_logger — INFO — searchKeyBoard:51 — Intento 0
+2019-05-29 05:37:57,605 — super_logger — INFO — searchKeyBoard:64 — Encontré la imagen
+2019-05-29 05:38:05,625 — super_logger — INFO — searchKeyBoard:71 — Escibrí usuario y contraseña
+2019-05-29 05:38:05,625 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 05:38:05,625 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 05:38:12,634 — super_logger — INFO — search:39 — Escribo las keywords: cuauhtemoc df departamentos renta letshome
+2019-05-29 05:38:37,236 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: cuauhtemoc df departamentos renta letshome
+2019-05-29 05:38:37,236 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 05:38:37,236 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 05:38:47,246 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:38:48,594 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 05:38:50,602 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:38:51,985 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 05:38:54,001 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:38:55,354 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 05:38:57,369 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:38:58,712 — super_logger — INFO — findSiteKeyBoard:126 — recargando la página
+2019-05-29 05:39:00,724 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 05:39:02,731 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:39:04,190 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 05:39:06,206 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:39:07,626 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 05:39:09,639 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:39:11,059 — super_logger — INFO — findSiteKeyBoard:118 — No encontré la imagen
+2019-05-29 05:39:11,060 — super_logger — INFO — findSite:84 — No encontrado letshome
+2019-05-29 05:39:11,060 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 05:39:13,730 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 05:43:17,545 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 05:43:17,545 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 05:43:17,545 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 05:43:17,545 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 05:43:17,545 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 27663 Mozilla/5.0 (Linux; Android 8.1.0; ZTE BLADE V9 Build/OPM1.171019.026; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile (su) Safari/537.36
+2019-05-29 05:43:17,553 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 05:43:17,553 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 05:43:17,553 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 05:43:17,553 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 05:43:32,565 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 05:43:32,565 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 05:43:34,568 — super_logger — INFO — searchKeyBoard:49 — Empezando intentos de busqueda del cuadro de inicio de sesión
+2019-05-29 05:43:34,568 — super_logger — INFO — searchKeyBoard:51 — Intento 0
+2019-05-29 05:43:34,714 — super_logger — INFO — searchKeyBoard:64 — Encontré la imagen
+2019-05-29 05:43:42,732 — super_logger — INFO — searchKeyBoard:71 — Escibrí usuario y contraseña
+2019-05-29 05:43:42,732 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 05:43:42,732 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 05:43:49,741 — super_logger — INFO — search:39 — Escribo las keywords: portales departamentos renta letshome
+2019-05-29 05:45:23,368 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 05:45:23,369 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 05:45:23,369 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 05:46:42,432 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 05:46:42,433 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 05:46:42,433 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 05:46:42,433 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 05:46:42,433 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 23009 Mozilla/5.0 (iPhone; CPU iPhone OS 11_1 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) GSA/38.0.172903409 (su) Mobile/15B93 Safari/604.1
+2019-05-29 05:46:42,441 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 05:46:42,441 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 05:46:42,441 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 05:46:42,441 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 05:46:57,457 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 05:46:57,458 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 05:46:59,461 — super_logger — INFO — searchKeyBoard:49 — Empezando intentos de busqueda del cuadro de inicio de sesión
+2019-05-29 05:46:59,461 — super_logger — INFO — searchKeyBoard:51 — Intento 0
+2019-05-29 05:46:59,607 — super_logger — INFO — searchKeyBoard:64 — Encontré la imagen
+2019-05-29 05:47:07,624 — super_logger — INFO — searchKeyBoard:71 — Escibrí usuario y contraseña
+2019-05-29 05:47:07,624 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 05:47:07,624 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 05:47:14,634 — super_logger — INFO — search:39 — Escribo las keywords: df departamentos letshome
+2019-05-29 05:47:26,950 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: df departamentos letshome
+2019-05-29 05:47:26,950 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 05:47:26,950 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 05:47:36,960 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:47:37,234 — super_logger — INFO — findSiteKeyBoard:130 — Encontrada
+2019-05-29 05:47:41,253 — super_logger — INFO — findSiteKeyBoard:134 — Hice click
+2019-05-29 05:47:41,254 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 05:47:41,254 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 05:53:20,477 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 05:53:20,477 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 05:53:20,477 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 05:53:20,478 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 05:53:20,478 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 28549 Mozilla/5.0 (Linux; Android 9; Pixel 3 XL Build/PD1A.180621.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile (su) Safari/537.36
+2019-05-29 05:53:20,486 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 05:53:20,486 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 05:53:20,486 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 05:53:20,486 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 05:53:35,499 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 05:53:35,499 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 05:53:37,501 — super_logger — INFO — searchKeyBoard:49 — Empezando intentos de busqueda del cuadro de inicio de sesión
+2019-05-29 05:53:37,502 — super_logger — INFO — searchKeyBoard:51 — Intento 0
+2019-05-29 05:53:37,648 — super_logger — INFO — searchKeyBoard:64 — Encontré la imagen
+2019-05-29 05:53:45,669 — super_logger — INFO — searchKeyBoard:71 — Escibrí usuario y contraseña
+2019-05-29 05:53:45,669 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 05:53:45,669 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 05:53:52,677 — super_logger — INFO — search:39 — Escribo las keywords: guaymas casas letshome
+2019-05-29 05:54:08,113 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: guaymas casas letshome
+2019-05-29 05:54:08,113 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 05:54:08,113 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 05:54:18,123 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 05:54:18,418 — super_logger — INFO — findSiteKeyBoard:130 — Encontrada
+2019-05-29 05:54:22,435 — super_logger — INFO — findSiteKeyBoard:134 — Hice click
+2019-05-29 05:54:22,435 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 05:54:22,435 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 06:01:05,447 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:01:05,447 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:01:05,447 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:01:05,447 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:01:05,447 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 26159 Mozilla/5.0 (Linux; Android 9; Pixel 3 XL Build/PD1A.180720.030; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile (su) Safari/537.36 [FB_IAB/FB4A;FBAV/194.0.0.42.99;]
+2019-05-29 06:01:05,454 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:01:05,454 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:01:05,455 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:01:05,455 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:01:20,467 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:01:20,467 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:01:20,467 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:01:20,467 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:01:27,476 — super_logger — INFO — search:39 — Escribo las keywords: san jeronimo casas venta letshome
+2019-05-29 06:01:44,564 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: san jeronimo casas venta letshome
+2019-05-29 06:01:44,564 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:01:44,564 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:01:54,571 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:01:56,497 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:01:58,510 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:02:00,353 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:02:02,365 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:02:03,936 — super_logger — INFO — findSiteKeyBoard:130 — Encontrada
+2019-05-29 06:02:07,950 — super_logger — INFO — findSiteKeyBoard:134 — Hice click
+2019-05-29 06:02:07,950 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 06:02:07,950 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 06:03:08,003 — super_logger — INFO — findSite:67 — Cambiaré a la página: valua
+2019-05-29 06:03:08,003 — super_logger — INFO — changePage:181 — Buscando la imagen de la pagina valua
+2019-05-29 06:03:08,003 — super_logger — INFO — changePage:185 — Iniciando intentos
+2019-05-29 06:03:14,011 — super_logger — INFO — changePage:190 — Intento 0
+2019-05-29 06:04:13,698 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:04:13,698 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:04:13,698 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:04:13,698 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:04:13,698 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 28402 Mozilla/5.0 (Linux; Android 7.0; VKY-L09 Build/HUAWEIVKY-L09; xx-xx) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/56.0.2924.87 Mobile (su) Safari/537.36
+2019-05-29 06:04:13,704 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:04:13,705 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:04:13,705 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:04:13,705 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:04:28,718 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:04:28,718 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:04:28,718 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:04:28,718 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:04:35,728 — super_logger — INFO — search:39 — Escribo las keywords: df casas renta letshome
+2019-05-29 06:04:50,611 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: df casas renta letshome
+2019-05-29 06:04:50,611 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:04:50,611 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:05:00,619 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:05:02,922 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:05:04,934 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:05:06,707 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:05:08,718 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:05:10,294 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:05:12,311 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:05:14,386 — super_logger — INFO — findSiteKeyBoard:126 — recargando la página
+2019-05-29 06:05:16,394 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:05:18,403 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:05:19,695 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:07:07,613 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:07:07,614 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:07:07,614 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:07:07,614 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:07:07,614 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 21500 Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) (su) Mobile/15G77 inWrapper
+2019-05-29 06:07:07,622 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:07:07,622 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:07:07,622 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:07:07,622 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:07:22,633 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:07:22,634 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:07:22,634 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:07:22,634 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:07:29,644 — super_logger — INFO — search:39 — Escribo las keywords: lomas verdes conjunto lomas verdes naucalpan de juarez residencial renta letshome
+2019-05-29 06:08:12,914 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: lomas verdes conjunto lomas verdes naucalpan de juarez residencial renta letshome
+2019-05-29 06:08:12,914 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:08:12,914 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:08:22,921 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:08:23,245 — super_logger — INFO — findSiteKeyBoard:130 — Encontrada
+2019-05-29 06:08:27,263 — super_logger — INFO — findSiteKeyBoard:134 — Hice click
+2019-05-29 06:08:27,263 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 06:08:27,263 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 06:09:27,321 — super_logger — INFO — findSite:67 — Cambiaré a la página: buro
+2019-05-29 06:09:27,321 — super_logger — INFO — changePage:181 — Buscando la imagen de la pagina buro
+2019-05-29 06:09:27,321 — super_logger — INFO — changePage:185 — Iniciando intentos
+2019-05-29 06:09:33,335 — super_logger — INFO — changePage:190 — Intento 0
+2019-05-29 06:09:41,740 — super_logger — INFO — changePage:211 — Encontrada imagen buro
+2019-05-29 06:09:50,774 — super_logger — INFO — findSite:69 — Resultado: exitosa
+2019-05-29 06:09:51,775 — super_logger — INFO — findSite:75 — Terminada navevación en la página
+2019-05-29 06:10:01,792 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 06:10:04,618 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 06:11:54,099 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:11:54,099 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:11:54,099 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:11:54,100 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:11:54,100 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 20370 Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-N960N Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.0 Chrome/63.0.3239.111 Mobile (su) Safari/537.36
+2019-05-29 06:11:54,107 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:11:54,108 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:11:54,108 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:11:54,108 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:12:09,118 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:12:09,118 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:12:09,118 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:12:09,119 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:12:16,128 — super_logger — INFO — search:39 — Escribo las keywords: jalisco casas venta letshome
+2019-05-29 06:12:31,943 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: jalisco casas venta letshome
+2019-05-29 06:12:31,943 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:12:31,943 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:12:41,953 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:12:43,345 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:12:45,359 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:12:46,752 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:12:48,766 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:12:50,186 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:12:52,198 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:12:53,587 — super_logger — INFO — findSiteKeyBoard:126 — recargando la página
+2019-05-29 06:12:55,595 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:12:57,599 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:12:58,998 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:13:01,012 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:13:02,440 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:13:04,453 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:13:05,838 — super_logger — INFO — findSiteKeyBoard:118 — No encontré la imagen
+2019-05-29 06:13:05,838 — super_logger — INFO — findSite:84 — No encontrado letshome
+2019-05-29 06:13:05,838 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 06:13:08,651 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 06:13:12,736 — super_logger — INFO — createUsers:71 — Iniciamos obteniendo proxy buena
+2019-05-29 06:13:15,596 — super_logger — INFO — createUsers:73 — Terminé obteniendo proxy buena
+2019-05-29 06:13:15,597 — super_logger — INFO — createUsers:80 — Instanciando usuario
+2019-05-29 06:13:15,599 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:13:15,599 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:13:15,599 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:13:15,600 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:13:15,600 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 27343 Mozilla/5.0 (Linux; Android 7.0; PRA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile (su) Safari/537.36
+2019-05-29 06:13:15,606 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:13:15,606 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:13:15,606 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:13:15,606 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:13:30,619 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:13:30,620 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:13:30,620 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:13:30,620 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:13:37,629 — super_logger — INFO — search:39 — Escribo las keywords: azcapotzalco departamentos letshome
+2019-05-29 06:13:54,436 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: azcapotzalco departamentos letshome
+2019-05-29 06:13:54,436 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:13:54,436 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:14:04,443 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:14:07,024 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:14:09,043 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:14:13,112 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:14:15,125 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:14:18,764 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:14:20,775 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:14:23,839 — super_logger — INFO — findSiteKeyBoard:126 — recargando la página
+2019-05-29 06:14:25,854 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:14:27,862 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:14:31,043 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:14:33,055 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:14:35,758 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:14:37,770 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:14:40,325 — super_logger — INFO — findSiteKeyBoard:118 — No encontré la imagen
+2019-05-29 06:14:40,325 — super_logger — INFO — findSite:84 — No encontrado letshome
+2019-05-29 06:14:40,326 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 06:14:43,019 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 06:15:18,900 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:15:18,900 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:15:18,900 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:15:18,900 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:15:18,900 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 22128 Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile (su) Safari/537.36
+2019-05-29 06:15:18,908 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:15:18,908 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:15:18,908 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:15:18,908 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:15:33,920 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:15:33,920 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:15:33,920 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:15:33,920 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:15:40,929 — super_logger — INFO — search:39 — Escribo las keywords: tlalpan departamentos renta letshome
+2019-05-29 06:16:00,982 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: tlalpan departamentos renta letshome
+2019-05-29 06:16:00,982 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:16:00,982 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:16:10,989 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:16:11,288 — super_logger — INFO — findSiteKeyBoard:130 — Encontrada
+2019-05-29 06:16:15,303 — super_logger — INFO — findSiteKeyBoard:134 — Hice click
+2019-05-29 06:16:15,303 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 06:16:15,303 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 06:23:55,208 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:23:55,208 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:23:55,208 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:23:55,208 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:23:55,208 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 27066 Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile (su) Safari/537.36
+2019-05-29 06:23:55,220 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:23:55,220 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:23:55,220 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:23:55,220 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:24:10,235 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:24:10,235 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:24:10,235 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:24:10,235 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:24:17,246 — super_logger — INFO — search:39 — Escribo las keywords: tlaxcala casas renta letshome
+2019-05-29 06:24:33,902 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: tlaxcala casas renta letshome
+2019-05-29 06:24:33,903 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:24:33,903 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:24:43,913 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:24:45,292 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:24:47,306 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:24:48,641 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:24:50,655 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:24:52,010 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:24:54,026 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:24:55,386 — super_logger — INFO — findSiteKeyBoard:126 — recargando la página
+2019-05-29 06:24:57,394 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:24:59,398 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:25:00,745 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:25:02,756 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:25:04,140 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:25:06,154 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:25:07,492 — super_logger — INFO — findSiteKeyBoard:118 — No encontré la imagen
+2019-05-29 06:25:07,492 — super_logger — INFO — findSite:84 — No encontrado letshome
+2019-05-29 06:25:07,492 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 06:25:10,313 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 06:25:14,398 — super_logger — INFO — createUsers:71 — Iniciamos obteniendo proxy buena
+2019-05-29 06:25:20,202 — super_logger — INFO — createUsers:73 — Terminé obteniendo proxy buena
+2019-05-29 06:25:20,203 — super_logger — INFO — createUsers:80 — Instanciando usuario
+2019-05-29 06:25:20,205 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:25:20,205 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:25:20,205 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:25:20,205 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:25:20,205 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 25239 Mozilla/5.0 (Linux; Android 7.0; Redmi Note 4 Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.81 Mobile (su) Safari/537.36
+2019-05-29 06:25:20,213 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:25:20,214 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:25:20,214 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:25:20,214 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:25:35,226 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:25:35,226 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:25:35,226 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:25:35,226 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:25:42,235 — super_logger — INFO — search:39 — Escribo las keywords: coapa departamentos renta letshome
+2019-05-29 06:26:16,991 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:26:16,991 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:26:16,991 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:26:16,991 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:26:16,991 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 21988 Mozilla/5.0 (Linux; Android 8.1.0; ZTE BLADE V9 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile (su) Safari/537.36
+2019-05-29 06:26:16,999 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:26:16,999 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:26:17,000 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:26:17,000 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:26:32,011 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:26:32,011 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:26:32,011 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:26:32,011 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:26:39,023 — super_logger — INFO — search:39 — Escribo las keywords: xalapa casas renta letshome
+2019-05-29 06:26:56,901 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: xalapa casas renta letshome
+2019-05-29 06:26:56,901 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:26:56,901 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:27:06,911 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:27:08,206 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:27:10,216 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:27:11,491 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:27:13,503 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:27:14,776 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:27:16,787 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:27:25,318 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:27:25,318 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:27:25,318 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:27:25,318 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:27:25,318 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 28082 Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.83 Mobile (su) Safari/537.36
+2019-05-29 06:27:25,327 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:27:25,327 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:27:25,327 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:27:25,327 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:27:40,337 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:27:40,337 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:27:40,337 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:27:40,337 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:27:47,346 — super_logger — INFO — search:39 — Escribo las keywords: colima casas renta letshome
+2019-05-29 06:28:04,783 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: colima casas renta letshome
+2019-05-29 06:28:04,783 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:28:04,783 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:28:14,793 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:28:16,235 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:28:18,247 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:28:19,785 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:28:21,792 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:28:23,330 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:28:25,348 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:28:27,090 — super_logger — INFO — findSiteKeyBoard:126 — recargando la página
+2019-05-29 06:28:29,095 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:28:31,098 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:28:32,725 — super_logger — INFO — findSiteKeyBoard:138 — Haciendo scroll
+2019-05-29 06:28:34,735 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:28:42,432 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:28:42,432 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:28:42,432 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:28:42,432 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:28:42,432 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 27505 Mozilla/5.0 (Linux; Android 8.0.0; F5121 Build/34.4.A.2.19) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile (su) Safari/537.36
+2019-05-29 06:28:42,440 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:28:42,440 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:28:42,440 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:28:42,440 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:28:57,452 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:28:57,452 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:28:57,452 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:28:57,452 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:29:04,461 — super_logger — INFO — search:39 — Escribo las keywords: veracruz casas renta letshome
+2019-05-29 06:29:24,483 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: veracruz casas renta letshome
+2019-05-29 06:29:24,483 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:29:24,483 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:31:40,281 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:31:40,281 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:31:40,281 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:31:40,281 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:31:40,281 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 27560 Mozilla/5.0 (Linux; Android 7.0; F5121 Build/34.2.A.2.69) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.83 Mobile (su) Safari/537.36
+2019-05-29 06:31:40,289 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:31:40,289 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:31:40,289 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:31:40,289 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:31:55,300 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:31:55,300 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:31:55,301 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:31:55,301 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:32:02,312 — super_logger — INFO — search:39 — Escribo las keywords: ciudad juarez centro juarez casas venta letshome
+2019-05-29 06:32:26,694 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: ciudad juarez centro juarez casas venta letshome
+2019-05-29 06:32:26,695 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:32:26,695 — super_logger — INFO — findSiteKeyBoard:89 — Buscando la imagen
+2019-05-29 06:32:36,700 — super_logger — INFO — findSiteKeyBoard:103 — Iniciando intentos
+2019-05-29 06:32:36,987 — super_logger — INFO — findSiteKeyBoard:130 — Encontrada
+2019-05-29 06:32:41,000 — super_logger — INFO — findSiteKeyBoard:134 — Hice click
+2019-05-29 06:32:41,000 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 06:32:41,000 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 06:35:34,487 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:35:34,487 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:35:34,487 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:35:34,487 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:35:34,487 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 25186 Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-N960N Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.0 Chrome/63.0.3239.111 Mobile (su) Safari/537.36
+2019-05-29 06:35:34,495 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:35:34,495 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:35:34,495 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:35:34,495 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:35:49,506 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:35:49,507 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:35:49,507 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:35:49,507 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:35:56,516 — super_logger — INFO — search:39 — Escribo las keywords: tepic casas renta letshome
+2019-05-29 06:36:09,233 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: tepic casas renta letshome
+2019-05-29 06:36:09,233 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:36:09,233 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 06:36:19,243 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:36:20,603 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:36:22,615 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:36:24,049 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:36:26,061 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:36:27,483 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:36:29,496 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:36:35,919 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:36:35,919 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:36:35,919 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:36:35,919 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:36:35,919 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 28880 Mozilla/5.0 (Linux; Android 8.0.0; SM-G960F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile (su) Safari/537.36
+2019-05-29 06:36:35,927 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:36:35,927 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:36:35,927 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:36:35,927 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:36:50,944 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:36:50,944 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:36:50,944 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:36:50,944 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:36:57,953 — super_logger — INFO — search:39 — Escribo las keywords: jalisco casas venta letshome
+2019-05-29 06:37:14,717 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: jalisco casas venta letshome
+2019-05-29 06:37:14,717 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:37:14,718 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 06:37:24,719 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:37:26,169 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:37:28,181 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:37:29,697 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:37:31,710 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:37:33,228 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:37:35,242 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:37:37,045 — super_logger — INFO — findSiteKeyBoard:127 — recargando la página
+2019-05-29 06:38:07,827 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:38:07,827 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:38:07,827 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:38:07,827 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:38:07,827 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 24087 Mozilla/5.0 (Linux; Android 8.1.0; ZTE BLADE V9 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile (su) Safari/537.36
+2019-05-29 06:38:07,835 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:38:07,836 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:38:07,836 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:38:07,836 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:38:22,846 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:38:22,847 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:38:22,847 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:38:22,847 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:38:29,857 — super_logger — INFO — search:39 — Escribo las keywords: guanajuato celaya casas letshome
+2019-05-29 06:38:46,661 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: guanajuato celaya casas letshome
+2019-05-29 06:38:46,661 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:38:46,661 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 06:38:56,671 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:38:59,052 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:39:01,063 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:39:02,365 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:39:13,100 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:39:13,100 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:39:13,100 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:39:13,100 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:39:13,100 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 20510 Mozilla/5.0 (Linux; Android 8.1.0; ZTE BLADE V9 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.91 Mobile (su) Safari/537.36
+2019-05-29 06:39:13,109 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:39:13,109 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:39:13,109 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:39:13,109 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:39:28,119 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:39:28,120 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:39:28,120 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:39:28,120 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:39:35,130 — super_logger — INFO — search:39 — Escribo las keywords: bosque real huixquilucan residencial letshome
+2019-05-29 06:40:02,589 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: bosque real huixquilucan residencial letshome
+2019-05-29 06:40:02,589 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:40:02,589 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 06:41:30,860 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:41:30,860 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:41:30,861 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:41:30,861 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:41:30,861 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 26877 Mozilla/5.0 (Linux; Android 7.0; PRA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.80 Mobile (su) Safari/537.36
+2019-05-29 06:41:30,869 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:41:30,869 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:41:30,869 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:41:30,869 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:41:45,880 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:41:45,880 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:41:47,886 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:41:47,886 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:41:54,898 — super_logger — INFO — search:39 — Escribo las keywords: bosque real huixquilucan residencial letshome
+2019-05-29 06:42:16,183 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: bosque real huixquilucan residencial letshome
+2019-05-29 06:42:16,184 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:42:16,184 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 06:42:26,186 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:42:27,717 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:42:29,733 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:42:31,358 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:42:33,374 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:42:34,932 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:42:36,948 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:42:37,265 — super_logger — INFO — findSiteKeyBoard:127 — recargando la página
+2019-05-29 06:42:39,275 — super_logger — INFO — findSiteKeyBoard:131 — Encontrada
+2019-05-29 06:42:43,283 — super_logger — INFO — findSiteKeyBoard:135 — Hice click
+2019-05-29 06:42:43,283 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 06:42:43,283 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 06:43:43,342 — super_logger — INFO — findSite:67 — Cambiaré a la página: blog
+2019-05-29 06:43:43,342 — super_logger — INFO — changePage:182 — Buscando la imagen de la pagina blog
+2019-05-29 06:43:43,342 — super_logger — INFO — changePage:186 — Iniciando intentos
+2019-05-29 06:43:49,355 — super_logger — INFO — changePage:191 — Intento 0
+2019-05-29 06:43:57,768 — super_logger — INFO — changePage:212 — Encontrada imagen blog
+2019-05-29 06:44:06,789 — super_logger — INFO — findSite:69 — Resultado: exitosa
+2019-05-29 06:44:07,791 — super_logger — INFO — findSite:75 — Terminada navevación en la página
+2019-05-29 06:46:20,770 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:46:20,770 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:46:20,770 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:46:20,770 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:46:20,770 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 24906 Mozilla/5.0 (Linux; Android 9; Pixel 3 XL Build/PD1A.180720.031; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile (su) Safari/537.36 [FB_IAB/FB4A;FBAV/195.0.0.35.99;]
+2019-05-29 06:46:20,778 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:46:20,778 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:46:20,778 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:46:20,778 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:46:35,790 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:46:35,790 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:46:37,793 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:46:37,793 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:46:44,800 — super_logger — INFO — search:39 — Escribo las keywords: df departamentos letshome
+2019-05-29 06:47:00,863 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: df departamentos letshome
+2019-05-29 06:47:00,863 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:47:00,863 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 06:47:10,871 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:47:12,195 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:47:14,211 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:47:15,611 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 06:47:17,626 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:47:36,909 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 06:47:36,910 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 06:47:36,910 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 06:47:36,910 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 06:47:36,910 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 27264 Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) (su) Mobile/15G77 inWrapper
+2019-05-29 06:47:36,918 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 06:47:36,918 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 06:47:36,918 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 06:47:36,918 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 06:47:51,930 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 06:47:51,930 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 06:47:53,933 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 06:47:53,934 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 06:48:00,943 — super_logger — INFO — search:39 — Escribo las keywords: nuevo leon casas renta letshome
+2019-05-29 06:48:20,322 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: nuevo leon casas renta letshome
+2019-05-29 06:48:20,322 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 06:48:20,322 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 06:48:30,327 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 06:48:30,614 — super_logger — INFO — findSiteKeyBoard:131 — Encontrada
+2019-05-29 06:48:34,627 — super_logger — INFO — findSiteKeyBoard:135 — Hice click
+2019-05-29 06:48:34,627 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 06:48:34,627 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 07:48:14,876 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 07:48:14,876 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 07:48:14,876 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 07:48:14,877 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 07:50:01,188 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 07:50:01,188 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 07:50:01,188 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 07:50:01,188 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 07:59:21,045 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 07:59:21,045 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 07:59:21,045 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 07:59:21,046 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 08:10:43,588 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 08:10:43,588 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 08:10:43,588 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 08:10:43,588 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 08:10:43,588 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 22672 Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Version/11.0 (su) Mobile/15C202 Safari/604.1
+2019-05-29 08:10:43,596 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 08:10:43,596 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 08:10:43,597 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 08:10:43,597 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 08:10:58,612 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 08:10:58,613 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 08:11:00,615 — super_logger — INFO — searchKeyBoard:49 — Empezando intentos de busqueda del cuadro de inicio de sesión
+2019-05-29 08:11:00,615 — super_logger — INFO — searchKeyBoard:51 — Intento 0
+2019-05-29 08:11:00,626 — super_logger — INFO — searchKeyBoard:51 — Intento 1
+2019-05-29 08:11:00,634 — super_logger — INFO — searchKeyBoard:51 — Intento 2
+2019-05-29 08:11:00,642 — super_logger — INFO — searchKeyBoard:51 — Intento 3
+2019-05-29 08:11:00,650 — super_logger — INFO — searchKeyBoard:51 — Intento 4
+2019-05-29 08:11:00,659 — super_logger — INFO — searchKeyBoard:51 — Intento 5
+2019-05-29 08:11:00,667 — super_logger — INFO — searchKeyBoard:51 — Intento 6
+2019-05-29 08:11:00,675 — super_logger — INFO — searchKeyBoard:51 — Intento 7
+2019-05-29 08:11:00,682 — super_logger — INFO — searchKeyBoard:51 — Intento 8
+2019-05-29 08:11:00,690 — super_logger — INFO — searchKeyBoard:51 — Intento 9
+2019-05-29 08:11:00,697 — super_logger — INFO — searchKeyBoard:51 — Intento 10
+2019-05-29 08:11:00,706 — super_logger — INFO — searchKeyBoard:51 — Intento 11
+2019-05-29 08:11:00,714 — super_logger — INFO — searchKeyBoard:51 — Intento 12
+2019-05-29 08:11:00,722 — super_logger — INFO — searchKeyBoard:51 — Intento 13
+2019-05-29 08:11:00,730 — super_logger — INFO — searchKeyBoard:51 — Intento 14
+2019-05-29 08:11:00,738 — super_logger — INFO — searchKeyBoard:51 — Intento 15
+2019-05-29 08:11:00,746 — super_logger — INFO — searchKeyBoard:51 — Intento 16
+2019-05-29 08:11:00,754 — super_logger — INFO — searchKeyBoard:51 — Intento 17
+2019-05-29 08:11:00,762 — super_logger — INFO — searchKeyBoard:51 — Intento 18
+2019-05-29 08:11:00,770 — super_logger — INFO — searchKeyBoard:51 — Intento 19
+2019-05-29 08:11:00,778 — super_logger — INFO — searchKeyBoard:51 — Intento 20
+2019-05-29 08:11:00,786 — super_logger — INFO — searchKeyBoard:51 — Intento 21
+2019-05-29 08:11:00,794 — super_logger — INFO — searchKeyBoard:51 — Intento 22
+2019-05-29 08:11:00,801 — super_logger — INFO — searchKeyBoard:51 — Intento 23
+2019-05-29 08:11:00,810 — super_logger — INFO — searchKeyBoard:51 — Intento 24
+2019-05-29 08:11:00,818 — super_logger — INFO — searchKeyBoard:51 — Intento 25
+2019-05-29 08:11:00,827 — super_logger — INFO — searchKeyBoard:51 — Intento 26
+2019-05-29 08:11:00,836 — super_logger — INFO — searchKeyBoard:51 — Intento 27
+2019-05-29 08:11:00,844 — super_logger — INFO — searchKeyBoard:51 — Intento 28
+2019-05-29 08:11:00,854 — super_logger — INFO — searchKeyBoard:51 — Intento 29
+2019-05-29 08:11:00,863 — super_logger — INFO — searchKeyBoard:51 — Intento 30
+2019-05-29 08:11:00,872 — super_logger — INFO — searchKeyBoard:51 — Intento 31
+2019-05-29 08:11:00,880 — super_logger — INFO — searchKeyBoard:51 — Intento 32
+2019-05-29 08:11:00,888 — super_logger — INFO — searchKeyBoard:51 — Intento 33
+2019-05-29 08:11:00,897 — super_logger — INFO — searchKeyBoard:51 — Intento 34
+2019-05-29 08:11:00,905 — super_logger — INFO — searchKeyBoard:51 — Intento 35
+2019-05-29 08:11:00,913 — super_logger — INFO — searchKeyBoard:51 — Intento 36
+2019-05-29 08:11:00,921 — super_logger — INFO — searchKeyBoard:51 — Intento 37
+2019-05-29 08:11:00,929 — super_logger — INFO — searchKeyBoard:51 — Intento 38
+2019-05-29 08:11:00,946 — super_logger — INFO — searchKeyBoard:51 — Intento 39
+2019-05-29 08:11:00,963 — super_logger — INFO — searchKeyBoard:51 — Intento 40
+2019-05-29 08:11:00,981 — super_logger — INFO — searchKeyBoard:51 — Intento 41
+2019-05-29 08:11:00,996 — super_logger — INFO — searchKeyBoard:51 — Intento 42
+2019-05-29 08:11:01,020 — super_logger — INFO — searchKeyBoard:51 — Intento 43
+2019-05-29 08:11:01,037 — super_logger — INFO — searchKeyBoard:51 — Intento 44
+2019-05-29 08:11:01,053 — super_logger — INFO — searchKeyBoard:51 — Intento 45
+2019-05-29 08:11:01,071 — super_logger — INFO — searchKeyBoard:51 — Intento 46
+2019-05-29 08:11:01,085 — super_logger — INFO — searchKeyBoard:51 — Intento 47
+2019-05-29 08:11:01,105 — super_logger — INFO — searchKeyBoard:51 — Intento 48
+2019-05-29 08:11:01,118 — super_logger — INFO — searchKeyBoard:51 — Intento 49
+2019-05-29 08:11:01,135 — super_logger — INFO — searchKeyBoard:51 — Intento 50
+2019-05-29 08:11:01,149 — super_logger — INFO — searchKeyBoard:51 — Intento 51
+2019-05-29 08:11:01,158 — super_logger — INFO — searchKeyBoard:51 — Intento 52
+2019-05-29 08:11:01,166 — super_logger — INFO — searchKeyBoard:51 — Intento 53
+2019-05-29 08:11:01,174 — super_logger — INFO — searchKeyBoard:51 — Intento 54
+2019-05-29 08:11:01,181 — super_logger — INFO — searchKeyBoard:51 — Intento 55
+2019-05-29 08:11:01,189 — super_logger — INFO — searchKeyBoard:51 — Intento 56
+2019-05-29 08:11:01,197 — super_logger — INFO — searchKeyBoard:51 — Intento 57
+2019-05-29 08:11:01,206 — super_logger — INFO — searchKeyBoard:51 — Intento 58
+2019-05-29 08:11:01,214 — super_logger — INFO — searchKeyBoard:51 — Intento 59
+2019-05-29 08:11:01,222 — super_logger — INFO — searchKeyBoard:59 — No encontré la imagen
+2019-05-29 08:11:01,223 — super_logger — INFO — search:44 — No pude iniciar sesión
+2019-05-29 08:11:09,234 — super_logger — INFO — navigateToPage:128 — No pude iniciar sesion en el proxy o no pude realizar la búsqueda de google
+2019-05-29 08:11:09,234 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 08:11:11,905 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 08:11:15,987 — super_logger — INFO — createUsers:71 — Iniciamos obteniendo proxy buena
+2019-05-29 08:18:23,477 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 08:18:23,478 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 08:18:23,478 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 08:18:23,478 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 08:18:23,478 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 9050 Mozilla/5.0 (Linux; Android 8.0.0; ANE-LX1 Build/HUAWEIANE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.158 Mobile (su) Safari/537.36
+2019-05-29 08:18:23,485 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 08:18:23,486 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 08:18:23,486 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 08:18:23,486 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 08:18:38,499 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 08:18:38,499 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 08:18:40,501 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 08:18:40,501 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 08:18:47,507 — super_logger — INFO — search:39 — Escribo las keywords: delegacion politica benito juarez df departamentos letshome
+2019-05-29 08:19:15,745 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: delegacion politica benito juarez df departamentos letshome
+2019-05-29 08:19:15,745 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 08:19:15,745 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 08:19:25,753 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:19:27,275 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 08:19:29,291 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:19:30,706 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 08:19:32,723 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:19:34,111 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 08:19:36,132 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:19:37,674 — super_logger — INFO — findSiteKeyBoard:127 — recargando la página
+2019-05-29 08:19:39,683 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 08:19:41,691 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:19:43,699 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 08:19:45,722 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:19:47,105 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 08:19:49,119 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:19:50,495 — super_logger — INFO — findSiteKeyBoard:119 — No encontré la imagen
+2019-05-29 08:19:50,495 — super_logger — INFO — findSite:84 — No encontrado letshome
+2019-05-29 08:19:50,495 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 08:19:53,313 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 08:19:57,397 — super_logger — INFO — createUsers:71 — Iniciamos obteniendo proxy buena
+2019-05-29 08:19:58,308 — super_logger — INFO — createUsers:73 — Terminé obteniendo proxy buena
+2019-05-29 08:19:58,310 — super_logger — INFO — createUsers:80 — Instanciando usuario
+2019-05-29 08:19:58,312 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 08:19:58,312 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 08:19:58,312 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 08:19:58,312 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 08:19:58,312 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 9050 Mozilla/5.0 (Linux; Android 8.1.0; ZTE BLADE V9 Build/OPM1.171019.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.86 Mobile (su) Safari/537.36
+2019-05-29 08:19:58,319 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 08:19:58,319 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 08:19:58,320 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 08:19:58,320 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 08:20:13,332 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 08:20:13,332 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 08:20:15,335 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 08:20:15,335 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 08:20:22,343 — super_logger — INFO — search:39 — Escribo las keywords: venustiano carranza df departamentos renta letshome
+2019-05-29 08:20:47,493 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: venustiano carranza df departamentos renta letshome
+2019-05-29 08:20:47,493 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 08:20:47,493 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 08:20:57,501 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:20:57,851 — super_logger — INFO — findSiteKeyBoard:131 — Encontrada
+2019-05-29 08:21:01,866 — super_logger — INFO — findSiteKeyBoard:135 — Hice click
+2019-05-29 08:21:01,866 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 08:21:01,866 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 08:22:01,929 — super_logger — INFO — findSite:67 — Cambiaré a la página: hipoteca
+2019-05-29 08:22:01,929 — super_logger — INFO — changePage:182 — Buscando la imagen de la pagina hipoteca
+2019-05-29 08:22:01,929 — super_logger — INFO — changePage:186 — Iniciando intentos
+2019-05-29 08:22:07,939 — super_logger — INFO — changePage:191 — Intento 0
+2019-05-29 08:22:16,151 — super_logger — INFO — changePage:212 — Encontrada imagen hipoteca
+2019-05-29 08:22:25,177 — super_logger — INFO — findSite:69 — Resultado: exitosa
+2019-05-29 08:22:26,178 — super_logger — INFO — findSite:75 — Terminada navevación en la página
+2019-05-29 08:22:36,194 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 08:22:43,555 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 08:22:43,555 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 08:22:43,555 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 08:22:43,555 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 08:22:43,556 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 9050 Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_1 like Mac OS X) AppleWebKit/604.4.7 (KHTML, like Gecko) FxiOS/10.4b8288 (su) Mobile/15C153 Safari/604.4.7
+2019-05-29 08:22:43,564 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 08:22:43,564 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 08:22:43,564 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 08:22:43,564 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 08:22:58,576 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 08:22:58,576 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 08:23:00,579 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 08:23:00,579 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 08:23:07,587 — super_logger — INFO — search:39 — Escribo las keywords: puebla casas renta letshome
+2019-05-29 08:23:21,963 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: puebla casas renta letshome
+2019-05-29 08:23:21,963 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 08:23:21,963 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 08:23:31,973 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 08:23:32,267 — super_logger — INFO — findSiteKeyBoard:131 — Encontrada
+2019-05-29 08:23:36,285 — super_logger — INFO — findSiteKeyBoard:135 — Hice click
+2019-05-29 08:23:36,285 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 08:23:36,286 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 08:24:36,344 — super_logger — INFO — findSite:67 — Cambiaré a la página: buro
+2019-05-29 08:24:36,344 — super_logger — INFO — changePage:182 — Buscando la imagen de la pagina buro
+2019-05-29 08:24:36,344 — super_logger — INFO — changePage:186 — Iniciando intentos
+2019-05-29 08:24:42,356 — super_logger — INFO — changePage:191 — Intento 0
+2019-05-29 08:24:50,555 — super_logger — INFO — changePage:212 — Encontrada imagen buro
+2019-05-29 08:24:59,574 — super_logger — INFO — findSite:69 — Resultado: exitosa
+2019-05-29 08:25:00,576 — super_logger — INFO — findSite:75 — Terminada navevación en la página
+2019-05-29 15:33:17,842 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 15:33:17,842 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 15:33:17,842 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 15:33:17,843 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 15:33:17,843 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 9050 Mozilla/5.0 (Linux; Android 8.1.0; ZTE BLADE V9 Build/OPM1.171019.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.137 Mobile (su) Safari/537.36
+2019-05-29 15:33:17,851 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 15:33:17,851 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 15:33:17,851 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 15:33:17,851 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 15:33:32,867 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 15:33:32,867 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 15:33:34,869 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 15:33:34,869 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 15:33:41,879 — super_logger — INFO — search:39 — Escribo las keywords: puebla casas renta letshome
+2019-05-29 15:33:58,257 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: puebla casas renta letshome
+2019-05-29 15:33:58,257 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 15:33:58,257 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 15:34:08,268 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 15:34:08,560 — super_logger — INFO — findSiteKeyBoard:131 — Encontrada
+2019-05-29 15:34:12,579 — super_logger — INFO — findSiteKeyBoard:135 — Hice click
+2019-05-29 15:34:12,580 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 15:34:12,580 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 15:35:12,643 — super_logger — INFO — findSite:67 — Cambiaré a la página: mapa
+2019-05-29 15:35:12,644 — super_logger — INFO — changePage:182 — Buscando la imagen de la pagina mapa
+2019-05-29 15:35:12,644 — super_logger — INFO — changePage:186 — Iniciando intentos
+2019-05-29 15:35:18,653 — super_logger — INFO — changePage:191 — Intento 0
+2019-05-29 15:35:26,850 — super_logger — INFO — changePage:212 — Encontrada imagen mapa
+2019-05-29 15:35:35,871 — super_logger — INFO — findSite:69 — Resultado: exitosa
+2019-05-29 15:35:36,872 — super_logger — INFO — findSite:75 — Terminada navevación en la página
+2019-05-29 15:35:46,886 — super_logger — INFO — setParameters:66 — Termina navegación al sitio: letshome
+2019-05-29 15:35:49,674 — super_logger — INFO — createUsers:85 — Iniciando usuario
+2019-05-29 15:48:31,124 — super_logger — INFO — createUsers:82 — Fin instancia objeto
+2019-05-29 15:48:31,124 — super_logger — INFO — createUsers:83 — Iniciando processUser
+2019-05-29 15:48:31,124 — super_logger — INFO — setParameters:36 — Colocando tipo de usuario
+2019-05-29 15:48:31,124 — super_logger — INFO — setParameters:42 — Fin colocando tipo de usuario
+2019-05-29 15:48:31,124 — super_logger — INFO — setParameters:52 — Inicia configuracion firefox con datos: mx.smartproxy.com 9050 Mozilla/5.0 (Linux; Android 9; Pixel 3 XL Build/PD1A.180720.031; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/69.0.3497.100 Mobile (su) Safari/537.36 Instagram 67.0.0.25.100 Android (28/9; 560dpi; 1440x2621; Google/google; Pixel 3 XL; crosshatch; crosshatch; en_US; 128079984)
+2019-05-29 15:48:31,132 — super_logger — INFO — setParameters:54 — Finaliza configuracion firefox con datos
+2019-05-29 15:48:31,132 — super_logger — INFO — setParameters:64 — Navegaremos al sitio: letshome
+2019-05-29 15:48:31,132 — super_logger — INFO — navigateToPage:119 — Iniciando sesion en el proxy
+2019-05-29 15:48:31,132 — super_logger — INFO — search:28 — Abriendo navegador
+2019-05-29 15:48:46,144 — super_logger — INFO — search:30 — Abrí navegador
+2019-05-29 15:48:46,144 — super_logger — INFO — search:34 — Buscando iniciar sesion
+2019-05-29 15:48:48,147 — super_logger — INFO — search:36 — Pude iniciar sesión
+2019-05-29 15:48:48,147 — super_logger — INFO — search:37 — Foco en la barra de tareas
+2019-05-29 15:48:55,161 — super_logger — INFO — search:39 — Escribo las keywords: rinconada de jalisco atotonilco el alto residencial letshome
+2019-05-29 15:49:27,380 — super_logger — INFO — navigateToPage:121 — Pude iniciar sesión en el proxy y realizé la búsqueda: rinconada de jalisco atotonilco el alto residencial letshome
+2019-05-29 15:49:27,380 — super_logger — INFO — navigateToPage:122 — Inicio busqueda de letshome en los resultados de google
+2019-05-29 15:49:27,380 — super_logger — INFO — findSiteKeyBoard:90 — Buscando la imagen
+2019-05-29 15:49:37,386 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 15:49:38,907 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 15:49:40,925 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 15:49:42,340 — super_logger — INFO — findSiteKeyBoard:139 — Haciendo scroll
+2019-05-29 15:49:44,354 — super_logger — INFO — findSiteKeyBoard:104 — Iniciando intentos
+2019-05-29 15:49:44,629 — super_logger — INFO — findSiteKeyBoard:131 — Encontrada
+2019-05-29 15:49:48,645 — super_logger — INFO — findSiteKeyBoard:135 — Hice click
+2019-05-29 15:49:48,645 — super_logger — INFO — findSite:53 — Encontrado letshome
+2019-05-29 15:49:48,645 — super_logger — INFO — findSite:62 — Iniciando navegación en la página
+2019-05-29 15:50:48,708 — super_logger — INFO — findSite:67 — Cambiaré a la página: buro
+2019-05-29 15:50:48,708 — super_logger — INFO — changePage:182 — Buscando la imagen de la pagina buro
+2019-05-29 15:50:48,709 — super_logger — INFO — changePage:186 — Iniciando intentos
+2019-05-29 15:50:54,723 — super_logger — INFO — changePage:191 — Intento 0
+2019-05-29 15:51:03,122 — super_logger — INFO — changePage:212 — Encontrada imagen buro
+2019-05-29 15:51:12,136 — super_logger — INFO — findSite:69 — Resultado: exitosa
+2019-05-29 15:51:13,137 — super_logger — INFO — findSite:75 — Terminada navevación en la página

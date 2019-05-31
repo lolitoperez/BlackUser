@@ -1,0 +1,57 @@
+#!/usr/bin/env bash
+
+brew install proxychains-ng
+
+echo "Para instalar en ubuntu se usa el comando :"
+
+echo "sudo apt-get install proxychains"
+
+echo "Si usas MAC probablmente tu archivo de configuracion se encuentre en : "
+
+echo "/usr/local/etc/proxychains.conf"
+
+echo "Si usas UBUNTU probablemente este en "
+
+echo "/etc/proxychains.conf"
+
+echo "Para anadir proxys se ponen hasta el final del archivo en la forma"
+
+echo "Protocolo IP  Puerto Usuario Contrasena"
+
+echo "Ejemplo: "
+
+echo "http 192.148.1.34 8080 revimex revimex123456789"
+
+echo "Si no hay autentificacion simplemente se omiten el usuario y la contraseña"
+
+echo "Uso de Proxychains" 
+
+echo "proxychains4 comando"
+
+echo "Donde comando es cualquier comando ejecutable en la terminal"
+
+echo "Para ejecutar un script de python que use selenium se necesita descomentar la linea"
+
+echo "localnet 127.0.0.0/255.0.0.0"
+
+echo "Para Hacer saltos aleatorios descomentar"
+
+echo "#random_chain"
+
+
+echo "Para determinar el numero de saltos en modo aleatorio modificar la linea "
+
+echo "#chain_len = 3"
+
+
+echo "Se pueden correr proxychain sobre si mismo, por ejemplo "
+
+echo "proxychains4 proxychains4 wget https://cualesmiip.com"
+
+echo "Para usar archivos diferentes de configuracion se usa la opcion -f" 
+
+echo "proxychains4 -f config1.conf proxychains4 -f config2.conf wget https://cualesmiip.com"
+
+
+echo "Probablemente no funciones proxychains en sus mac, pero si en las instancias, eso es lo importante"
+

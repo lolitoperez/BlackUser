@@ -1,0 +1,132 @@
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 84, in createUsers
+    self.proccessUser(userWeb)
+  File "GestorUsuarios.py", line 121, in proccessUser
+    user.setParameters()
+  File "/home/ubuntu2/superusercloud/UsuarioWeb.py", line 37, in setParameters
+    parameters = self.getUserParameters()
+  File "/home/ubuntu2/superusercloud/UsuarioWeb.py", line 29, in getUserParameters
+    a = self.userType.getUser()
+  File "/home/ubuntu2/superusercloud/Usuario.py", line 443, in getUser
+    url_elegido=self.links_nuevos[int(np.random.uniform(0,len(self.links_nuevos)+1))]
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 150, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+UnboundLocalError: local variable 'ipactual' referenced before assignment
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 150, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+UnboundLocalError: local variable 'ipactual' referenced before assignment
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 150, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+UnboundLocalError: local variable 'ipactual' referenced before assignment
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 150, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+UnboundLocalError: local variable 'ipactual' referenced before assignment
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 153, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+KeyError: 'ip'
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 84, in createUsers
+    self.proccessUser(userWeb)
+  File "GestorUsuarios.py", line 121, in proccessUser
+    user.setParameters()
+  File "/home/ubuntu2/superusercloud/UsuarioWeb.py", line 46, in setParameters
+    port = int(self.proxie.split(':')[1])
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 84, in createUsers
+    self.proccessUser(userWeb)
+  File "GestorUsuarios.py", line 121, in proccessUser
+    user.setParameters()
+  File "/home/ubuntu2/superusercloud/UsuarioWeb.py", line 46, in setParameters
+    port = int(self.proxie.split(':')[1])
+ValueError: invalid literal for int() with base 10: ')9050'
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 152, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 152, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+UnboundLocalError: local variable 'ipactual' referenced before assignment
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 154, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+TypeError: 'method' object is not subscriptable
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 154, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+TypeError: 'method' object is not subscriptable
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 153, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 154, in obtener_proxy_buena
+    return ipactual['ip']+puerto , ipactual
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 84, in createUsers
+    self.proccessUser(userWeb)
+  File "GestorUsuarios.py", line 121, in proccessUser
+    user.setParameters()
+  File "/home/ubuntu2/superusercloud/UsuarioWeb.py", line 46, in setParameters
+    port = int(self.proxie.split(':')[1])
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 151, in obtener_proxy_buena
+    return srt(ipactual['ip'])+puerto , ipactual
+NameError: name 'srt' is not defined
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 136, in obtener_proxy_buena
+    while intentos < self.INTENTOS_MAXIMOS_PROXY:
+AttributeError: 'ValueProxies' object has no attribute 'INTENTOS_MAXIMOS_PROXY'
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 136, in obtener_proxy_buena
+    while intentos < self.INTENTOS_MAXIMOS_PROXY:
+AttributeError: 'ValueProxies' object has no attribute 'INTENTOS_MAXIMOS_PROXY'
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 136, in obtener_proxy_buena
+    while intentos < self.INTENTOS_MAXIMOS_PROXY:
+AttributeError: 'ValueProxies' object has no attribute 'INTENTOS_MAXIMOS_PROXY'
+Traceback (most recent call last):
+  File "GestorUsuarios.py", line 72, in createUsers
+    proxy,dictproxy = self.proxy_manager.obtener_proxy_buena()
+  File "/home/ubuntu2/superusercloud/ValueProxies.py", line 136, in obtener_proxy_buena
+    while intentos < self.INTENTOS_MAXIMOS_PROXY:
+AttributeError: 'ValueProxies' object has no attribute 'INTENTOS_MAXIMOS_PROXY'

@@ -1,0 +1,952 @@
+ 
+ 
+ 
+SPYS.ONE/EN/
+Free proxy list
+Proxy list by county
+Anonymous free proxy
+HTTPS/SSL proxy
+SOCKS proxy list
+HTTP proxy list
+Transparent proxy list
+ 
+
+ 	twi@spys_one tele@spys_one 
+Free proxy lists Mexico (MX). Mexican proxy servers.
+Per page  ANM  SSL  Port  Type  Sort 
+465 proxies	Permanent link to this page: http://spys.one/free-proxy-list/MX/
+Proxy address:port	Proxy type	Anonymity*	Country (city/region)	Hostname/ORG	Latency**	Speed***	Uptime	Check date (GMT+04)
+1 187.243.253.182:33796	HTTPS	HIA	MX Ciudad Obregón (Sonora)	customer-MCA-COB-253-182.megared.net.mx (Mega Cable, S.A. de C.V.)	6.812	
+87% (27) -	07-feb-2019 19:11 (52 minutes ago)
+2 189.252.65.154:8081	HTTPS (Mikrotik)	NOA	MX Ciudad Juárez (Chihuahua)	dsl-189-252-65-154-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	2.776	
+100% (6) +	07-feb-2019 17:38 (2 hours ago)
+3 187.188.171.118:52684	HTTPS	HIA	MX Coatzacoalcos (Veracruz) !!!	fixed-187-188-171-118.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.229	
+85% (29) -	07-feb-2019 17:33 (2 hours ago)
+4 187.137.181.177:80	HTTPS (Mikrotik)	NOA	MX Navojoa (Sonora)	dsl-187-137-181-177-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	10.279	
+100% (2) -	07-feb-2019 17:13 (2 hours ago)
+5 189.206.166.12:60002	HTTP	HIA	MX Irapuato (Guanajuato)	189.206.166.12 (Alestra, S. de R.L. de C.V.)	5.799	
+92% (47) +	07-feb-2019 17:06 (2 hours ago)
+6 200.38.19.233:80	HTTP (Mikrotik)	NOA	MX !!!	200.38.19.233.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	4.505	
+100% (3) -	07-feb-2019 16:17 (3 hours ago)
+7 187.190.64.42:36936	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.468	
+100% (5) +	07-feb-2019 15:27 (4 hours ago)
+8 189.196.168.78:30880	HTTPS	HIA	MX San José del Cabo (Baja California Sur)	customer-LPAZ-168-78.megared.net.mx (SERVICIO Y EQUIPO EN TELEFONÍA INTERNET Y TV S.A. DE C.V.)	4.102	
+94% (34) +	07-feb-2019 14:59 (5 hours ago)
+9 187.189.82.93:38536	HTTPS	HIA	MX Cebollana (Veracruz)	fixed-187-189-82-93.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.183	
+89% (8) +	07-feb-2019 12:56 (7 hours ago)
+10 143.202.78.180:8080	HTTPS (Mikrotik)	NOA	MX Mexicali (Estado de Baja California)	143.202.78.180.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	3.246	
+75% (47) +	07-feb-2019 10:11 (9 hours ago)
+11 187.177.139.7:8080	HTTPS	HIA	MX Metepec (Estado de Mexico)	187-177-139-7.reservada.static.axtel.net (Axtel, S.A.B. de C.V.)	3.899	
+85% (28) +	07-feb-2019 07:20 (12 hours ago)
+12 189.199.112.138:80	HTTPS (Mikrotik)	NOA	MX San Luis Río Colorado (Sonora)	customer-SLRC-112-138.megared.net.mx (Mega Cable, S.A. de C.V.)	4.042	
+43% (73) -	07-feb-2019 05:39 (14 hours ago)
+13 189.203.179.18:8080	HTTP (Mikrotik)	NOA	MX Tecamac (Estado de Mexico)	fixed-189-203-179-18.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.252	
+93% (42) +	07-feb-2019 05:01 (15 hours ago)
+14 131.72.230.151:34016	HTTPS	HIA	MX Tijuana (Estado de Baja California)	131.72.230.151 (Konecta de Mexico, S. de R.L. de C.V.)	1.776	
+90% (9) +	07-feb-2019 04:58 (15 hours ago)
+15 189.204.158.161:8080	HTTPS (Mikrotik)	NOA	MX Amecameca (Estado de Mexico) !!!	161.189-204-158.clientesbestel.com.mx (Operbes, S.A. de C.V.)	1.312	
+69% (63) +	07-feb-2019 04:09 (15 hours ago)
+16 177.241.250.50:31254	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-50.megared.net.mx (Mega Cable, S.A. de C.V.)	1.548	
+100% (6) +	06-feb-2019 23:18 (20 hours ago)
+17 189.144.134.95:8080	HTTPS (Mikrotik)	NOA	MX Mexico City	dsl-189-144-134-95-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	3.295	
+86% (6) -	06-feb-2019 23:00 (21 hours ago)
+18 189.199.186.101:8080	HTTPS (Mikrotik)	NOA	MX Los Mochis (Sinaloa)	customer-LMM-186-101.megared.net.mx (Mega Cable, S.A. de C.V.)	1.477	
+90% (19) +	06-feb-2019 22:51 (21 hours ago)
+19 177.231.249.218:35524	HTTPS	HIA	MX Puebla City (Puebla)	customer-GDL-249-218.megared.net.mx (Mega Cable, S.A. de C.V.)	4.194	
+79% (27) +	06-feb-2019 22:32 (21 hours ago)
+20 38.123.68.19:999	HTTPS (Mikrotik)	NOA	MX Guadalajara (Jalisco)	gdlicanet.net.mx (Cogent Communications)	1.105	
+new +	06-feb-2019 22:09 (21 hours ago)
+21 200.33.143.75:38311	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	2.086	
+100% (9) +	06-feb-2019 21:01 (23 hours ago)
+22 177.234.19.50:3128	HTTPS	HIA	MX San Luis Potosí City (San Luis Potosí)	177.234.19.50 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	0.732	
+98% (41) +	06-feb-2019 19:18 (1 days ago)
+23 187.189.59.181:49552	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.668	
+88% (7) +	06-feb-2019 19:14 (1 days ago)
+24 189.195.132.86:43286	HTTPS	HIA	MX Colima	customer-COL-132-86.megared.net.mx (Mega Cable, S.A. de C.V.)	2.194	
+86% (44) +	06-feb-2019 19:03 (1 days ago)
+25 187.188.93.170:34798	HTTPS	HIA	MX Mexico City	fixed-187-188-93-170.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.275	
+36% (4) +	06-feb-2019 15:24 (1 days ago)
+26 201.159.22.164:56138	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	4.491	
+100% (14) +	06-feb-2019 14:19 (1 days ago)
+27 187.188.46.172:53455	HTTPS	HIA	MX Guadalajara (Jalisco)	fixed-187-188-46-172.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.047	
+83% (34) -	06-feb-2019 12:42 (1 days ago)
+28 187.191.20.13:46762	HTTP	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-13.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.51	
+new -	06-feb-2019 12:37 (1 days ago)
+29 201.156.160.91:34009	HTTPS	HIA	MX Monterrey (Nuevo León)	na-201-156-160-91.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	1.606	
+87% (52) +	06-feb-2019 12:27 (1 days ago)
+30 131.196.143.64:33729	HTTP	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.143.64 (Road9 VASP S de RL de CV)	5.853	
+new -	06-feb-2019 11:22 (1 days ago)
+31 177.238.248.102:54419	HTTPS	HIA	MX Parral (Chihuahua)	177.238.248.102.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	3.322	
+43% (3) -	06-feb-2019 09:46 (1 days ago)
+32 177.234.12.202:3128	HTTP	HIA	MX Guanajuato City (Guanajuato)	177.234.12.202 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	1.047	
+11% (150) +	06-feb-2019 09:31 (1 days ago)
+33 143.255.40.30:8080	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.376	
+100% (6) +	06-feb-2019 09:27 (1 days ago)
+34 187.131.136.94:8080	HTTPS (Mikrotik)	NOA	MX La Paz (Baja California Sur)	dsl-187-131-136-94-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	10.457	
+100% (2) -	06-feb-2019 08:31 (1 days ago)
+35 148.243.240.155:61711	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	3.522	
+100% (3) +	06-feb-2019 05:36 (1 days ago)
+36 189.220.226.110:42025	HTTPS	HIA	MX Oaxaca City (Oaxaca)	189.220.226.110.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	4.588	
+100% (4) +	06-feb-2019 04:17 (1 days ago)
+37 168.121.240.13:31756	HTTP	HIA	MX	168.121.240.13 (ISD NETWORKS S.A DE C.V)	3.987	
+77% (48) +	05-feb-2019 23:03 (1 days ago)
+38 177.241.244.219:57571	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	1.482	
+100% (7) +	05-feb-2019 21:21 (1 days ago)
+39 189.203.14.88:8080	HTTPS	HIA	MX Mexico City	fixed-189-203-14-88.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.385	
+87% (13) -	05-feb-2019 20:22 (1 days ago)
+40 177.234.7.66:8080	HTTPS	HIA	MX Oaxaca City (Oaxaca)	177.234.7.66 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	1.076	
+40% (2) +	05-feb-2019 14:18 (2 days ago)
+41 187.177.95.12:8080	HTTPS	HIA	MX Toluca (Estado de Mexico)	187-177-95-12.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	3.151	
+82% (9) +	05-feb-2019 14:11 (2 days ago)
+42 187.188.214.116:3128	HTTP (Squid)	NOA	MX Querétaro City (Querétaro)	fixed-187-188-214-116.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	0.912	
+100% (5) +	05-feb-2019 10:06 (2 days ago)
+43 189.199.186.101:80	HTTP (Mikrotik)	NOA	MX Los Mochis (Sinaloa)	customer-LMM-186-101.megared.net.mx (Mega Cable, S.A. de C.V.)	3.039	
+80% (8) +	05-feb-2019 08:20 (2 days ago)
+44 187.162.120.78:45527	HTTPS	HIA	MX Mexico City	187-162-120-78.static.axtel.net (Axtel, S.A.B. de C.V.)	3.777	
+86% (36) -	05-feb-2019 05:28 (2 days ago)
+45 45.5.94.37:48219	HTTP	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	7.199	
+new +	05-feb-2019 00:39 (2 days ago)
+46 189.198.224.1:80	HTTPS (Mikrotik)	NOA	MX Zapotlanejo (Jalisco)	customer-TEP-224-1.megared.net.mx (Mega Cable, S.A. de C.V.)	4.534	
+18% (45) +	04-feb-2019 23:21 (2 days ago)
+47 177.244.28.77:53281	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-77.megared.net.mx (Mega Cable, S.A. de C.V.)	5.565	
+100% (2)	04-feb-2019 19:43 (3 days ago)
+48 177.238.248.100:54419	HTTPS	HIA	MX Parral (Chihuahua) !!!	177.238.248.100.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	3.418	
+50% (5) +	04-feb-2019 17:24 (3 days ago)
+49 200.66.94.148:8080	HTTP (Mikrotik)	NOA	MX Mexico City !!!	148.94.66.200.in-addr.arpa (Megacable Comunicaciones de Mexico, S.A. de C.V.)	6.316	
+39% (72) -	04-feb-2019 16:13 (3 days ago)
+50 187.178.238.177:54340	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	187-178-238-177.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	3.92	
+84% (16) +	04-feb-2019 12:50 (3 days ago)
+51 177.244.30.122:3128	HTTPS (Mikrotik)	NOA	MX Querétaro City (Querétaro)	customer-MCA-QRO-30-122.megared.net.mx (Mega Cable, S.A. de C.V.)	1.396	
+100% (3) +	04-feb-2019 08:05 (3 days ago)
+52 187.172.169.28:8080	HTTP (Mikrotik)	NOA	MX Mazatlán (Sinaloa) !!!	dsl-187-172-169-28-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	4.8	
+100% (3) -	04-feb-2019 06:32 (3 days ago)
+53 131.196.141.135:33729	HTTP	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.141.135 (Road9 VASP S de RL de CV)	4.147	
+new -	04-feb-2019 00:20 (3 days ago)
+54 201.139.125.233:54174	HTTP	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	5.78	
+100% (8) +	03-feb-2019 21:22 (3 days ago)
+55 187.189.226.220:80	HTTPS (Mikrotik)	NOA	MX Puebla City (Puebla)	fixed-187-189-226-220.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.031	
+new	03-feb-2019 18:03 (4 days ago)
+56 201.147.242.186:8080	HTTPS	ANM	MX Querétaro City (Querétaro) !!!	static.customer-201-147-242-186.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.213	
+96% (105) +	03-feb-2019 16:38 (4 days ago)
+57 177.241.245.34:43153	HTTPS	HIA	MX Santa Ana (Sonora)	customer-MCA-STAA-245-34.megared.net.mx (Mega Cable, S.A. de C.V.)	3.369	
+90% (9) +	03-feb-2019 16:28 (4 days ago)
+58 170.81.141.249:50303	HTTPS	HIA	MX Cosio (Aguascalientes)	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	1.302	
+100% (7) +	03-feb-2019 16:19 (4 days ago)
+59 177.244.28.170:35832	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	4.354	
+75% (3) +	03-feb-2019 13:18 (4 days ago)
+60 148.243.247.50:48283	HTTPS	HIA	MX Mexico City	na-148-243-247-50.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	1.327	
+75% (3) +	03-feb-2019 05:32 (4 days ago)
+61 201.158.107.98:37748	HTTPS	HIA	MX Coacalco (Estado de Mexico)	201.158.107.98 (COMUNICALO DE MEXICO S.A. DE C.V)	2.851	
+80% (4) -	03-feb-2019 05:30 (4 days ago)
+62 177.238.248.104:54419	HTTP	HIA	MX Parral (Chihuahua) !!!	177.238.248.104.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	4.995	
+33% (3) +	02-feb-2019 20:15 (4 days ago)
+63 187.216.93.20:53281	HTTPS	HIA	MX San Luis Potosí City (San Luis Potosí)	customer-187-216-93-20.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.593	
+100% (3)	02-feb-2019 20:04 (4 days ago)
+64 187.176.123.155:30886	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	0.869	
+100% (6) +	02-feb-2019 16:41 (5 days ago)
+65 187.191.20.3:46762	HTTP	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-3.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	6.198	
+100% (3) +	02-feb-2019 14:39 (5 days ago)
+66 187.188.171.66:52684	HTTP	HIA	MX Coatzacoalcos (Veracruz)	fixed-187-188-171-66.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.936	
+80% (8) +	02-feb-2019 13:27 (5 days ago)
+67 143.255.40.30:37623	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.507	
+new	02-feb-2019 12:18 (5 days ago)
+68 201.164.62.94:8080	HTTPS	HIA	MX Culiacán (Sinaloa)	customer-CLN-MCA-62-94.megared.net.mx (Mega Cable, S.A. de C.V.)	1.524	
+80% (20) -	02-feb-2019 09:17 (5 days ago)
+69 200.66.94.147:8080	HTTPS (Mikrotik)	NOA	MX Mexico City	147.94.66.200.in-addr.arpa (Megacable Comunicaciones de Mexico, S.A. de C.V.)	6.037	
+41% (90) +	02-feb-2019 07:23 (5 days ago)
+70 187.190.237.113:32509	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán)	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.438	
+100% (3) +	02-feb-2019 01:04 (5 days ago)
+71 187.160.245.156:3128	HTTP (Squid)	NOA	MX Saltillo (Coahuila)	CableLink-187-160-245-156.PCs.InterCable.net (Television Internacional, S.A. de C.V.)	14.797	
+42% (221) -	01-feb-2019 22:35 (5 days ago)
+72 177.234.11.38:3128	HTTPS (Mikrotik)	NOA	MX Aguascalientes	177.234.11.38 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	4.609	
+67% (14) +	01-feb-2019 15:17 (6 days ago)
+73 187.216.83.187:8080	HTTPS (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur) !!!	customer-187-216-83-187.uninet-ide.com.mx (Uninet S.A. de C.V.)	10.165	
+67% (2) -	01-feb-2019 10:03 (6 days ago)
+74 189.201.240.148:55185	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.752	
+100% (2) +	01-feb-2019 06:35 (6 days ago)
+75 177.234.7.66:35995	HTTPS	HIA	MX Oaxaca City (Oaxaca)	177.234.7.66 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	1.174	
+100% (7) +	01-feb-2019 05:44 (6 days ago)
+76 187.141.73.147:53281	HTTPS	HIA	MX Poza Rica de Hidalgo (Veracruz)	customer-187-141-73-147-sta.uninet-ide.com.mx (Uninet S.A. de C.V.)	8.701	
+89% (8) +	31-jan-2019 23:22 (6 days ago)
+77 200.38.19.235:80	HTTPS (Mikrotik)	NOA	MX !!!	200.38.19.235.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	7.72	
+50% (1) -	31-jan-2019 20:28 (6 days ago)
+78 200.79.180.115:8080	HTTPS (Mikrotik)	NOA	MX Pachuca (Hidalgo)	200-79-180-115.rdns.mexline.com (Grupo Hidalguense de Desarrollo, S.A. de C.V.)	2.131	
+77% (44) -	31-jan-2019 12:45 (7 days ago)
+79 187.188.213.249:8080	HTTPS (Mikrotik)	NOA	MX Puebla City (Puebla)	fixed-187-188-213-249.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.857	
+90% (9) +	31-jan-2019 07:16 (7 days ago)
+80 131.196.141.41:33729	HTTP	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.141.41 (Road9 VASP S de RL de CV)	4.78	
+new +	31-jan-2019 01:03 (7 days ago)
+81 200.57.195.204:30158	HTTP	HIA	MX Mexico City	dial-200-57-195-204.zone-3.ip.static-ftth.axtel.net.mx (Axtel, S.A.B. de C.V.)	6.233	
+88% (35) -	31-jan-2019 00:54 (7 days ago)
+82 187.188.104.168:8888	HTTP (Squid)	NOA	MX Mexico City	fixed-187-188-104-168.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.075	
+new +	30-jan-2019 23:25 (7 days ago)
+83 200.38.19.239:80	HTTP (Mikrotik)	NOA	MX !!!	200.38.19.239.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	5.073	
+33% (2) -	30-jan-2019 21:15 (7 days ago)
+84 177.241.244.219:61531	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	2.266	
+83% (5) +	30-jan-2019 16:20 (8 days ago)
+85 187.190.9.80:54507	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.039	
+100% (4) -	30-jan-2019 06:32 (8 days ago)
+86 200.57.8.30:48862	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.729	
+75% (3) +	30-jan-2019 03:21 (8 days ago)
+87 187.189.120.59:42526	HTTPS	HIA	MX Mexico City	fixed-187-189-120-59.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.789	
+100% (3) +	29-jan-2019 06:23 (9 days ago)
+88 200.33.143.75:34807	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	1.321	
+100% (3) -	29-jan-2019 06:21 (9 days ago)
+89 187.176.123.155:44745	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.177	
+100% (2) +	29-jan-2019 05:23 (9 days ago)
+90 189.157.235.19:8080	HTTPS (Mikrotik)	NOA	MX	dsl-189-157-235-19-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	1.979	
+100% (3) +	29-jan-2019 04:11 (9 days ago)
+91 177.238.248.106:54419	HTTP	HIA	MX Parral (Chihuahua) !!!	177.238.248.106.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	3.119	
+new -	29-jan-2019 01:04 (9 days ago)
+92 201.158.107.234:56198	HTTPS	HIA	MX Coacalco (Estado de Mexico)	201.158.107.234 (COMUNICALO DE MEXICO S.A. DE C.V)	1.914	
+50% (2) +	28-jan-2019 23:23 (9 days ago)
+93 187.185.15.35:53281	HTTPS (Mikrotik)	NOA	MX Cuernavaca (Morelos)	187.185.15.35.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	4.001	
+50% (1)	28-jan-2019 19:51 (10 days ago)
+94 187.216.87.194:8080	HTTPS (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur)	customer-187-216-87-194.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.647	
+100% (6) +	28-jan-2019 15:05 (10 days ago)
+95 189.199.106.202:8888	HTTPS	HIA	MX Zamora (Michoacán)	customer-ZRA-106-202.megared.net.mx (Mega Cable, S.A. de C.V.)	5.262	
+64% (25) +	28-jan-2019 11:42 (10 days ago)
+96 201.152.87.106:8080	HTTPS (Mikrotik)	NOA	MX San Luis Potosí City (San Luis Potosí)	dsl-201-152-87-106-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	1.74	
+new +	28-jan-2019 00:30 (10 days ago)
+97 187.189.37.15:57246	HTTPS	HIA	MX Atotonilco de Tula (Hidalgo)	fixed-187-189-37-15.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.408	
+77% (17) +	27-jan-2019 20:51 (10 days ago)
+98 189.199.112.138:8080	HTTP (Mikrotik)	NOA	MX San Luis Río Colorado (Sonora)	customer-SLRC-112-138.megared.net.mx (Mega Cable, S.A. de C.V.)	3.098	
+35% (31) -	27-jan-2019 17:26 (11 days ago)
+99 189.220.226.110:30013	HTTPS	HIA	MX Oaxaca City (Oaxaca)	189.220.226.110.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	1.34	
+67% (2) +	27-jan-2019 09:23 (11 days ago)
+100 201.171.137.106:3128	HTTPS (Mikrotik)	NOA	MX Mexicali (Estado de Baja California)	201.171.137.106.dsl.dyn.telnor.net (Uninet S.A. de C.V.)	1.656	
+new +	27-jan-2019 04:43 (11 days ago)
+101 187.216.83.186:8080	HTTP (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur) !!!	customer-187-216-83-186.uninet-ide.com.mx (Uninet S.A. de C.V.)	6.118	
+100% (7) -	26-jan-2019 18:45 (12 days ago)
+102 187.190.64.42:42596	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.531	
+75% (3) +	26-jan-2019 16:33 (12 days ago)
+103 187.132.214.88:8080	HTTPS (Mikrotik)	NOA	MX Villahermosa (Tabasco)	dsl-187-132-214-88-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	8.766	
+50% (1) -	26-jan-2019 12:37 (12 days ago)
+104 187.191.20.3:38555	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-3.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.313	
+100% (2) +	26-jan-2019 12:12 (12 days ago)
+105 170.81.141.249:30577	HTTPS	HIA	MX Cosio (Aguascalientes)	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	11.509	
+75% (3) +	26-jan-2019 12:00 (12 days ago)
+106 45.5.94.73:48219	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	5.649	
+new -	25-jan-2019 21:22 (12 days ago)
+107 187.153.128.46:3128	HTTPS	HIA	MX Solidaridad (Quintana Roo)	dsl-187-153-128-46-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	1.099	
+new +	25-jan-2019 16:20 (13 days ago)
+108 187.190.237.113:46080	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán)	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	0.958	
+67% (4) +	25-jan-2019 09:55 (13 days ago)
+109 201.139.125.233:46808	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	1.187	
+100% (5) +	25-jan-2019 09:03 (13 days ago)
+110 189.213.145.98:39374	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	1.196	
+100% (2) +	25-jan-2019 08:57 (13 days ago)
+111 189.194.93.227:37238	HTTPS	HIA	MX Veracruz !!!	customer-XAL-93-227.megared.net.mx (Mega Cable, S.A. de C.V.)	1.419	
+100% (8) +	25-jan-2019 04:37 (13 days ago)
+112 200.33.143.75:56513	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	1.317	
+40% (2) +	24-jan-2019 20:46 (13 days ago)
+113 189.194.48.158:39290	HTTPS	HIA	MX Hermosillo (Sonora) !!!	customer-MCA-GYS-48-158.megared.net.mx (Mega Cable, S.A. de C.V.)	2.538	
+80% (4) +	24-jan-2019 12:41 (14 days ago)
+114 177.234.0.218:31584	HTTPS	HIA	MX Mexico City	177.234.0.218 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	0.899	
+77% (41) +	24-jan-2019 06:11 (14 days ago)
+115 187.190.9.80:52081	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.647	
+100% (2) +	24-jan-2019 05:26 (14 days ago)
+116 200.57.8.30:44183	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.73	
+80% (4) +	23-jan-2019 21:11 (14 days ago)
+117 187.189.120.59:55796	HTTPS	HIA	MX Mexico City	fixed-187-189-120-59.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.013	
+83% (5) +	23-jan-2019 14:48 (15 days ago)
+118 45.5.94.161:61306	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	1.053	
+new +	23-jan-2019 13:28 (15 days ago)
+119 148.243.240.155:39591	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	1.703	
+67% (2) +	23-jan-2019 13:27 (15 days ago)
+120 187.190.236.149:3128	HTTPS (Mikrotik)	NOA	MX Aguascalientes	fixed-187-190-236-149.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.072	
+50% (1) +	23-jan-2019 12:30 (15 days ago)
+121 187.216.120.3:34251	HTTPS	HIA	MX La Paz (Baja California Sur)	customer-187-216-120-3.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.169	
+100% (5) +	23-jan-2019 10:28 (15 days ago)
+122 187.176.123.155:54438	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.156	
+33% (1)	23-jan-2019 10:25 (15 days ago)
+123 189.199.69.122:42429	HTTPS	HIA	MX Tlajomulco de Zuniga (Jalisco)	customer-GDL-69-122.megared.net.mx (Mega Cable, S.A. de C.V.)	1.675	
+75% (3) +	23-jan-2019 08:20 (15 days ago)
+124 177.241.250.174:34824	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	1.232	
+100% (2) +	23-jan-2019 04:42 (15 days ago)
+125 187.188.93.170:36196	HTTPS	HIA	MX Mexico City	fixed-187-188-93-170.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.531	
+50% (3) +	23-jan-2019 04:34 (15 days ago)
+126 187.190.64.42:48651	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.133	
+100% (3) +	22-jan-2019 22:51 (15 days ago)
+127 187.189.26.14:59607	HTTPS	HIA	MX Campeche	fixed-187-189-26-14.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.439	
+81% (29) +	22-jan-2019 14:29 (16 days ago)
+128 201.132.110.124:47514	HTTPS	HIA	MX Guadalajara (Jalisco)	customer-MZT-110-124.megared.net.mx (Mega Cable, S.A. de C.V.)	1.209	
+33% (2) +	22-jan-2019 11:35 (16 days ago)
+129 187.177.95.12:30579	HTTPS	HIA	MX Toluca (Estado de Mexico)	187-177-95-12.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.134	
+100% (2) +	21-jan-2019 21:46 (16 days ago)
+130 189.198.239.61:31048	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.621	
+100% (3) +	21-jan-2019 20:15 (16 days ago)
+131 189.201.240.148:56006	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.225	
+100% (2) +	21-jan-2019 20:13 (16 days ago)
+132 177.244.28.170:44798	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.072	
+100% (2) +	21-jan-2019 20:09 (16 days ago)
+133 189.177.215.185:8080	HTTPS (Mikrotik)	NOA	MX Puerto Vallarta (Jalisco)	dsl-189-177-215-185-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	5.128	
+100% (2) +	21-jan-2019 19:30 (17 days ago)
+134 187.191.20.12:45647	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-12.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.531	
+new +	21-jan-2019 18:23 (17 days ago)
+135 201.140.116.186:8080	HTTPS (Mikrotik)	NOA	MX Mazatlán (Sinaloa)	186.201-140-116.bestel.com.mx (Operbes, S.A. de C.V.)	7.701	
+84% (43) +	21-jan-2019 15:21 (17 days ago)
+136 187.191.20.14:45647	HTTP	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-14.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.593	
+new -	21-jan-2019 14:23 (17 days ago)
+137 45.5.94.99:61306	HTTPS	HIA	MX Ramos Arizpe (Coahuila)	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	1.068	
+new +	21-jan-2019 12:51 (17 days ago)
+138 187.189.59.181:52942	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.193	
+new +	21-jan-2019 07:22 (17 days ago)
+139 187.216.83.188:8080	HTTPS (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur) !!!	customer-187-216-83-188.uninet-ide.com.mx (Uninet S.A. de C.V.)	9.807	
+50% (3) -	21-jan-2019 06:26 (17 days ago)
+140 201.174.19.158:39888	HTTPS	HIA	MX Ciudad Juárez (Chihuahua)	201-174-19-158.transtelco.net (Transtelco Inc)	1.136	
+100% (2) +	20-jan-2019 23:04 (17 days ago)
+141 45.235.128.6:60949	HTTPS	HIA	MX	45.235.128.6 (Sierra Madre Internet SA de CV)	4.034	
+83% (33) +	20-jan-2019 22:52 (17 days ago)
+142 45.5.94.34:48219	HTTPS	HIA	MX Ramos Arizpe (Coahuila)	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	9.278	
+new -	20-jan-2019 22:09 (17 days ago)
+143 187.189.82.93:38015	HTTPS	HIA	MX Cebollana (Veracruz)	fixed-187-189-82-93.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.349	
+60% (3) +	20-jan-2019 18:13 (18 days ago)
+144 187.243.250.198:3128	HTTPS (Mikrotik)	NOA	MX Santa Barbara (Sinaloa)	customer-MCA-MZT-250-198.megared.net.mx (Mega Cable, S.A. de C.V.)	1.826	
+43% (16) +	20-jan-2019 17:07 (18 days ago)
+145 143.255.40.30:45662	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.38	
+new +	20-jan-2019 11:31 (18 days ago)
+146 189.213.145.98:35590	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	0.797	
+100% (3) +	20-jan-2019 09:34 (18 days ago)
+147 201.139.125.233:60481	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	6.924	
+88% (7) +	20-jan-2019 09:25 (18 days ago)
+148 187.190.237.113:43628	HTTP	HIA	MX Maravatio de Ocampo (Michoacán)	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	10.542	
+80% (4) -	20-jan-2019 07:58 (18 days ago)
+149 200.33.143.75:48489	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	1.485	
+100% (2) +	19-jan-2019 23:14 (18 days ago)
+150 187.191.20.3:45647	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-3.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.617	
+new +	19-jan-2019 16:36 (19 days ago)
+151 187.190.9.80:31294	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.216	
+new +	19-jan-2019 14:26 (19 days ago)
+152 45.5.94.161:44586	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	1.059	
+new +	19-jan-2019 11:26 (19 days ago)
+153 143.255.40.30:54681	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.183	
+new +	19-jan-2019 10:08 (19 days ago)
+154 189.194.48.158:36955	HTTPS	HIA	MX Hermosillo (Sonora) !!!	customer-MCA-GYS-48-158.megared.net.mx (Mega Cable, S.A. de C.V.)	1.207	
+50% (1) +	19-jan-2019 01:17 (19 days ago)
+155 170.81.141.249:44783	HTTPS	HIA	MX Cosio (Aguascalientes)	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	1.027	
+67% (2) +	18-jan-2019 23:18 (19 days ago)
+156 189.144.150.186:8080	HTTPS (Mikrotik)	NOA	MX Mexico City	dsl-189-144-150-186-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	2.528	
+new +	18-jan-2019 18:21 (20 days ago)
+157 187.177.95.12:53703	HTTPS	HIA	MX Toluca (Estado de Mexico)	187-177-95-12.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	2.139	
+50% (1) +	18-jan-2019 16:46 (20 days ago)
+158 187.216.120.3:47161	HTTPS	HIA	MX La Paz (Baja California Sur)	customer-187-216-120-3.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.264	
+100% (3) +	18-jan-2019 14:39 (20 days ago)
+159 189.220.226.110:50585	HTTPS	HIA	MX Oaxaca City (Oaxaca)	189.220.226.110.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	1.164	
+100% (2) +	18-jan-2019 06:20 (20 days ago)
+160 187.176.123.155:45791	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.207	
+new +	18-jan-2019 05:34 (20 days ago)
+161 187.191.20.6:59673	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-6.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.216	
+new +	17-jan-2019 22:33 (20 days ago)
+162 187.190.64.42:54635	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.63	
+100% (2) +	17-jan-2019 18:30 (21 days ago)
+163 189.199.69.122:37724	HTTPS	HIA	MX Tlajomulco de Zuniga (Jalisco)	customer-GDL-69-122.megared.net.mx (Mega Cable, S.A. de C.V.)	1.265	
+100% (2) +	17-jan-2019 15:00 (21 days ago)
+164 143.255.40.30:38774	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.435	
+100% (3) +	17-jan-2019 12:14 (21 days ago)
+165 177.234.7.66:47668	HTTPS	HIA	MX Oaxaca City (Oaxaca)	177.234.7.66 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	0.877	
+100% (2) +	17-jan-2019 11:18 (21 days ago)
+166 148.243.247.51:48283	HTTPS	HIA	MX Mexico City	na-148-243-247-51.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	6.722	
+93% (37) +	17-jan-2019 08:27 (21 days ago)
+167 187.190.9.80:49177	HTTP	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.259	
+100% (3) -	17-jan-2019 04:58 (21 days ago)
+168 201.159.22.164:41768	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	1.214	
+75% (3) +	16-jan-2019 22:09 (21 days ago)
+169 187.216.83.179:8080	HTTP (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur) !!!	customer-187-216-83-179.uninet-ide.com.mx (Uninet S.A. de C.V.)	10.085	
+100% (8) -	16-jan-2019 18:13 (22 days ago)
+170 177.241.250.174:59899	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	3.437	
+100% (2) +	16-jan-2019 15:11 (22 days ago)
+171 187.216.83.182:8080	HTTPS (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur) !!!	customer-187-216-83-182.uninet-ide.com.mx (Uninet S.A. de C.V.)	12.565	
+50% (1) +	16-jan-2019 15:03 (22 days ago)
+172 189.198.239.61:38818	HTTP	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	4.036	
+100% (5) +	16-jan-2019 09:49 (22 days ago)
+173 187.216.120.3:32480	HTTPS	HIA	MX La Paz (Baja California Sur)	customer-187-216-120-3.uninet-ide.com.mx (Uninet S.A. de C.V.)	4.183	
+100% (8) +	16-jan-2019 09:38 (22 days ago)
+174 187.240.97.49:8080	HTTPS (Mikrotik)	NOA	MX Xalapa (Veracruz)	customer-XAL-97-49.megared.net.mx (Mega Cable, S.A. de C.V.)	1.465	
+33% (1) +	16-jan-2019 04:37 (22 days ago)
+175 189.201.240.148:38214	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	2.262	
+75% (3) +	15-jan-2019 20:24 (22 days ago)
+176 200.57.8.30:50845	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.349	
+75% (3) +	15-jan-2019 17:28 (23 days ago)
+177 189.199.69.122:55331	HTTPS	HIA	MX Tlajomulco de Zuniga (Jalisco)	customer-GDL-69-122.megared.net.mx (Mega Cable, S.A. de C.V.)	3.488	
+50% (1) +	15-jan-2019 17:12 (23 days ago)
+178 177.238.248.101:54419	HTTPS	HIA	MX Parral (Chihuahua) !!!	177.238.248.101.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	14.501	
+25% (1) -	15-jan-2019 13:22 (23 days ago)
+179 187.141.164.242:31120	HTTPS	HIA	MX Cabo San Lucas (Baja California Sur) !!!	customer-187-141-164-242-sta.uninet-ide.com.mx (Uninet S.A. de C.V.)	6.829	
+80% (35) +	15-jan-2019 09:59 (23 days ago)
+180 200.94.21.197:8080	HTTPS (Squid)	ANM	MX Mexico City !!!	static-200-94-21-197.alestra.net.mx (Alestra, S. de R.L. de C.V.)	13.37	
+18% (2) +	15-jan-2019 07:31 (23 days ago)
+181 187.191.20.2:40640	HTTPS	HIA	MX Chetumal (Quintana Roo)	fixed-187-191-20-2.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.899	
+new +	15-jan-2019 06:33 (23 days ago)
+182 177.241.244.219:36960	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	1.172	
+50% (2) +	15-jan-2019 06:23 (23 days ago)
+183 187.188.93.170:54871	HTTP	HIA	MX Mexico City	fixed-187-188-93-170.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.793	
+50% (3) -	14-jan-2019 21:26 (23 days ago)
+184 187.190.64.42:33539	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.565	
+100% (2) +	14-jan-2019 20:25 (23 days ago)
+185 189.213.145.98:42931	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	1.192	
+100% (2) +	14-jan-2019 18:47 (24 days ago)
+186 187.178.238.177:47641	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	187-178-238-177.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	0.879	
+67% (2) +	14-jan-2019 18:46 (24 days ago)
+187 177.234.2.58:44724	HTTPS	HIA	MX Mexico City !!!	177.234.2.58 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	2.272	
+100% (4) +	14-jan-2019 18:27 (24 days ago)
+188 189.128.23.243:8080	HTTPS (Mikrotik)	NOA	MX Villahermosa (Tabasco)	dsl-189-128-23-243-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	6.25	
+100% (2) -	14-jan-2019 11:58 (24 days ago)
+189 189.220.226.110:31570	HTTPS	HIA	MX Oaxaca City (Oaxaca)	189.220.226.110.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	1.849	
+100% (2) +	14-jan-2019 11:43 (24 days ago)
+190 200.38.19.231:80	HTTP (Mikrotik)	NOA	MX !!!	200.38.19.231.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	7.921	
+45% (5) +	14-jan-2019 10:28 (24 days ago)
+191 187.189.59.181:57640	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.418	
+75% (3) +	13-jan-2019 23:26 (24 days ago)
+192 201.132.155.10:8080	HTTPS (Mikrotik)	NOA	MX Culiacán (Sinaloa)	customer-CLN-155-10.megared.net.mx (Mega Cable, S.A. de C.V.)	1.806	
+79% (49) +	13-jan-2019 18:50 (25 days ago)
+193 187.217.189.229:8081	HTTP	ANM	MX Prados del Rosario (Mexico City)	customer-187-217-189-229.uninet-ide.com.mx (Uninet S.A. de C.V.)	9.289	
+4% (6) +	13-jan-2019 17:05 (25 days ago)
+194 187.191.20.6:40640	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-6.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.222	
+100% (2) +	13-jan-2019 16:50 (25 days ago)
+195 177.238.248.103:54419	HTTP	HIA	MX Parral (Chihuahua) !!!	177.238.248.103.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	10.614	
+25% (1) -	13-jan-2019 14:46 (25 days ago)
+196 148.243.240.155:54996	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	4.86	
+100% (3) +	13-jan-2019 08:33 (25 days ago)
+197 177.244.28.170:57714	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.058	
+100% (2) +	13-jan-2019 08:23 (25 days ago)
+198 187.176.123.155:47094	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.253	
+50% (1) +	13-jan-2019 04:44 (25 days ago)
+199 45.5.94.161:40936	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	1.075	
+new +	12-jan-2019 23:27 (25 days ago)
+200 187.190.237.113:59294	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán)	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	8.023	
+50% (1) +	12-jan-2019 23:26 (25 days ago)
+201 200.33.143.75:51592	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	1.189	
+100% (2) +	12-jan-2019 18:11 (26 days ago)
+202 189.194.48.158:39988	HTTPS	HIA	MX Hermosillo (Sonora) !!!	customer-MCA-GYS-48-158.megared.net.mx (Mega Cable, S.A. de C.V.)	2.233	
+80% (4) +	12-jan-2019 16:40 (26 days ago)
+203 177.241.244.219:47897	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	0.983	
+100% (3) +	12-jan-2019 10:24 (26 days ago)
+204 187.189.82.93:60053	HTTPS	HIA	MX Cebollana (Veracruz)	fixed-187-189-82-93.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.127	
+100% (4) +	12-jan-2019 05:22 (26 days ago)
+205 177.241.250.174:46342	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	1.236	
+100% (3) +	11-jan-2019 21:08 (26 days ago)
+206 187.188.213.4:59723	HTTPS	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.076	
+50% (1) +	11-jan-2019 20:08 (26 days ago)
+207 131.72.230.151:53364	HTTPS	HIA	MX Tijuana (Estado de Baja California)	131.72.230.151 (Konecta de Mexico, S. de R.L. de C.V.)	1.195	
+new +	11-jan-2019 20:08 (26 days ago)
+208 200.57.8.30:51082	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.382	
+new +	11-jan-2019 18:24 (27 days ago)
+209 187.177.95.12:56553	HTTPS	HIA	MX Toluca (Estado de Mexico)	187-177-95-12.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.151	
+100% (2) +	11-jan-2019 16:31 (27 days ago)
+210 187.190.9.80:45353	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.52	
+67% (2) +	11-jan-2019 13:28 (27 days ago)
+211 201.156.6.25:40962	HTTP	HIA	MX Mexico City	na-201-156-6-25.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	2.857	
+92% (33) +	11-jan-2019 10:23 (27 days ago)
+212 189.198.239.61:32513	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.515	
+new +	11-jan-2019 08:18 (27 days ago)
+213 177.244.28.170:39477	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.145	
+new +	11-jan-2019 07:52 (27 days ago)
+214 201.158.104.187:56461	HTTPS	HIA	MX Instituto de Seguridad Social del Estado de Mexico y Municipios (Estado de Mexico)	201.158.104.187 (COMUNICALO DE MEXICO S.A. DE C.V)	17.247	
+19% (3) +	11-jan-2019 00:29 (27 days ago)
+215 187.216.120.3:46623	HTTPS	HIA	MX La Paz (Baja California Sur)	customer-187-216-120-3.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.22	
+new +	10-jan-2019 22:18 (27 days ago)
+216 148.243.240.155:45737	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	3.94	
+new +	10-jan-2019 22:14 (27 days ago)
+217 189.213.145.98:61597	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	7.165	
+new +	10-jan-2019 19:04 (28 days ago)
+218 187.189.59.181:46107	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.77	
+new +	10-jan-2019 18:31 (28 days ago)
+219 201.159.22.164:37813	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	1.212	
+100% (2) +	10-jan-2019 11:49 (28 days ago)
+220 201.139.125.233:44464	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	1.018	
+75% (3) +	10-jan-2019 00:08 (28 days ago)
+221 187.191.20.12:48241	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-12.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.067	
+new +	09-jan-2019 21:28 (28 days ago)
+222 187.147.246.80:3128	HTTPS (Mikrotik)	NOA	MX Cancún (Quintana Roo)	dsl-187-147-246-80-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	1.067	
+new +	09-jan-2019 20:25 (28 days ago)
+223 187.176.123.155:57596	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	0.987	
+new +	09-jan-2019 18:50 (29 days ago)
+224 189.198.239.50:8888	HTTP	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-50.megared.net.mx (Mega Cable, S.A. de C.V.)	14.768	
+58% (11) -	09-jan-2019 17:02 (29 days ago)
+225 187.189.59.181:37710	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.415	
+new -	09-jan-2019 14:10 (29 days ago)
+226 201.158.105.124:52837	HTTPS	HIA	MX Mexico City	201.158.105.124 (COMUNICALO DE MEXICO S.A. DE C.V)	1.533	
+new +	09-jan-2019 13:32 (29 days ago)
+227 189.198.239.61:32390	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.307	
+67% (2) +	09-jan-2019 12:20 (29 days ago)
+228 187.188.213.4:31190	HTTP	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.359	
+100% (2) +	09-jan-2019 10:20 (29 days ago)
+229 187.190.64.42:55704	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.6	
+100% (2) +	09-jan-2019 06:28 (29 days ago)
+230 148.243.240.155:50702	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	1.847	
+100% (2) +	09-jan-2019 05:04 (29 days ago)
+231 177.244.28.170:59248	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.355	
+new +	09-jan-2019 04:41 (29 days ago)
+232 187.190.237.113:43428	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán) !!!	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.044	
+100% (3) +	08-jan-2019 22:22 (29 days ago)
+233 189.203.77.147:8080	HTTPS (Mikrotik)	NOA	MX Cuautlancingo (Puebla)	fixed-189-203-77-147.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.376	
+100% (7) +	08-jan-2019 19:26 (30 days ago)
+234 189.201.240.148:50101	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.166	
+new +	08-jan-2019 19:24 (30 days ago)
+235 189.213.145.98:56718	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	1.094	
+100% (2) +	08-jan-2019 19:18 (30 days ago)
+236 177.241.245.34:52009	HTTPS	HIA	MX Santa Ana (Sonora)	customer-MCA-STAA-245-34.megared.net.mx (Mega Cable, S.A. de C.V.)	1.24	
+new +	08-jan-2019 18:51 (30 days ago)
+237 170.81.141.249:39548	HTTPS	HIA	MX Cosio (Aguascalientes)	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	0.965	
+100% (2) +	08-jan-2019 11:07 (30 days ago)
+238 201.161.223.150:39800	HTTPS	HIA	MX	oceanview.mail.com.mx (Cable y Comunicacion de Campeche, S.A. de C.V.)	7.263	
+57% (8) +	08-jan-2019 10:03 (30 days ago)
+239 177.241.250.174:35265	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	1.157	
+67% (2) +	08-jan-2019 09:44 (30 days ago)
+240 200.76.97.21:55999	HTTPS	HIA	MX San Luis Potosí City (San Luis Potosí)	podernet-slp.inext.net.mx (TOPNET SA de CV)	1.138	
+36% (10) +	08-jan-2019 07:22 (30 days ago)
+241 201.139.125.233:59810	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	1.085	
+100% (2) +	08-jan-2019 06:24 (30 days ago)
+242 187.191.20.3:48241	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-3.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.119	
+new +	08-jan-2019 04:22 (30 days ago)
+243 207.248.108.92:53433	HTTPS	HIA	MX Patzcuaro (Michoacán) !!!	rmotors-207.248.108.92.redes.rcm.net.mx (Redes y Comunicaciones de Michoacan S.A. de C.V.)	3.158	
+71% (12) +	07-jan-2019 23:27 (30 days ago)
+244 200.57.249.77:8080	HTTPS (Mikrotik)	NOA	MX Mexico City	aol-dial-200-57-249-77.zone-0.ip.static-ftth.axtel.net.mx (Axtel, S.A.B. de C.V.)	1.104	
+42% (5) +	07-jan-2019 22:34 (30 days ago)
+245 200.38.19.234:80	HTTP (Mikrotik)	NOA	MX !!!	200.38.19.234.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	10.01	
+new -	07-jan-2019 21:28 (30 days ago)
+246 189.198.239.61:60845	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.258	
+new +	07-jan-2019 18:29 (31 days ago)
+247 177.241.244.219:34864	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	2.491	
+75% (3) -	07-jan-2019 18:20 (31 days ago)
+248 187.189.241.217:999	HTTPS (Mikrotik)	NOA	MX Hermosillo (Sonora)	fixed-187-189-241-217.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.92	
+91% (21) +	07-jan-2019 17:18 (31 days ago)
+249 45.5.94.161:53624	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	1.769	
+100% (3) +	07-jan-2019 16:30 (31 days ago)
+250 177.233.7.76:47116	HTTPS	HIA	MX Mexico City	host-177-233-7-76.static.metrored.net.mx (Mexico Red de Telecomunicaciones, S. de R.L. de C.V.)	1.312	
+100% (2) +	07-jan-2019 07:57 (31 days ago)
+251 187.189.59.181:38631	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.644	
+100% (3) +	06-jan-2019 23:27 (31 days ago)
+252 201.161.223.150:8888	HTTPS	HIA	MX	201.161.223.150.cable.dyn.cableonline.com.mx (Cable y Comunicacion de Campeche, S.A. de C.V.)	9.025	
+56% (5) -	06-jan-2019 23:03 (31 days ago)
+253 187.216.120.3:36749	HTTPS	HIA	MX La Paz (Baja California Sur)	customer-187-216-120-3.uninet-ide.com.mx (Uninet S.A. de C.V.)	3.784	
+50% (2) +	06-jan-2019 22:37 (31 days ago)
+254 187.191.20.6:45912	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-6.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.116	
+83% (5) +	06-jan-2019 22:26 (31 days ago)
+255 189.199.69.122:54677	HTTPS	HIA	MX Tlajomulco de Zuniga (Jalisco)	customer-GDL-69-122.megared.net.mx (Mega Cable, S.A. de C.V.)	1.292	
+100% (4) +	06-jan-2019 13:27 (32 days ago)
+256 187.189.82.93:40611	HTTPS	HIA	MX Cebollana (Veracruz)	fixed-187-189-82-93.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.374	
+100% (2) +	06-jan-2019 13:22 (32 days ago)
+257 189.204.158.149:57231	HTTPS	HIA	MX Amecameca (Estado de Mexico)	149.189-204-158.bestel.com.mx (Operbes, S.A. de C.V.)	1.029	
+96% (27) +	06-jan-2019 12:21 (32 days ago)
+258 177.244.28.170:58804	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.291	
+100% (2) +	06-jan-2019 11:27 (32 days ago)
+259 189.201.240.148:45831	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.608	
+new +	06-jan-2019 00:55 (32 days ago)
+260 189.213.145.98:39341	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	6.812	
+60% (3) -	06-jan-2019 00:40 (32 days ago)
+261 45.5.94.38:48219	HTTP	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	4.909	
+100% (2) +	05-jan-2019 19:23 (33 days ago)
+262 200.33.143.75:30287	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	1.3	
+new +	05-jan-2019 18:48 (33 days ago)
+263 189.201.242.17:3128	HTTP (Mikrotik)	NOA	MX Mexicali (Estado de Baja California) !!!	189.201.242.17.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	9.152	
+67% (2) +	05-jan-2019 18:26 (33 days ago)
+264 189.194.48.158:36285	HTTPS	HIA	MX Hermosillo (Sonora) !!!	customer-MCA-GYS-48-158.megared.net.mx (Mega Cable, S.A. de C.V.)	1.157	
+100% (2) +	05-jan-2019 17:26 (33 days ago)
+265 201.150.255.185:3128	HTTP (Squid)	NOA	MX	host201-150-255-185.tvrey.com.mx (TV Rey de Occidente, S.A. de C.V.)	6.469	
+89% (183) +	05-jan-2019 10:32 (33 days ago)
+266 200.38.19.224:80	HTTP (Mikrotik)	NOA	MX !!!	200.38.19.224.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	11.332	
+63% (5) -	05-jan-2019 09:29 (33 days ago)
+267 138.122.96.106:8080	HTTPS (Mikrotik)	NOA	MX Querétaro City (Querétaro) !!!	138.122.96.106 (IENTC S DE RL DE CV)	6.731	
+25% (1) -	05-jan-2019 08:00 (33 days ago)
+268 187.176.123.155:35321	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.393	
+50% (1) +	05-jan-2019 07:43 (33 days ago)
+269 187.190.64.42:32559	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.508	
+100% (3) +	05-jan-2019 04:59 (33 days ago)
+270 143.255.40.30:47111	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	2.125	
+new +	05-jan-2019 04:39 (33 days ago)
+271 131.72.230.151:39294	HTTP	HIA	MX Tijuana (Estado de Baja California)	131.72.230.151 (Konecta de Mexico, S. de R.L. de C.V.)	2.929	
+53% (8) -	04-jan-2019 16:30 (34 days ago)
+272 189.220.226.110:41023	HTTPS	HIA	MX Oaxaca City (Oaxaca)	189.220.226.110.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	1.468	
+new +	04-jan-2019 08:20 (34 days ago)
+273 201.139.125.233:56223	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	1.276	
+100% (3) +	03-jan-2019 20:54 (34 days ago)
+274 201.139.125.90:21213	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.90 (Kiwi Networks S A P I de CV)	3.095	
+87% (13) +	03-jan-2019 19:36 (35 days ago)
+275 143.255.40.30:40706	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.187	
+new +	03-jan-2019 16:40 (35 days ago)
+276 177.233.7.74:47116	HTTPS	HIA	MX Mexico City	host-177-233-7-74.static.metrored.net.mx (Mexico Red de Telecomunicaciones, S. de R.L. de C.V.)	1.117	
+67% (6) +	03-jan-2019 11:19 (35 days ago)
+277 201.143.32.82:80	HTTPS (Mikrotik)	NOA	MX	201.143.32.82.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	4.011	
+28% (5) -	03-jan-2019 10:21 (35 days ago)
+278 207.248.108.90:53433	HTTPS	HIA	MX Patzcuaro (Michoacán)	rmotors-207.248.108.90.redes.rcm.net.mx (Redes y Comunicaciones de Michoacan S.A. de C.V.)	1.675	
+86% (37) +	03-jan-2019 05:25 (35 days ago)
+279 177.241.250.174:55027	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	1.103	
+new +	02-jan-2019 23:15 (35 days ago)
+280 187.188.213.4:55102	HTTPS	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.016	
+new +	02-jan-2019 19:15 (36 days ago)
+281 187.189.120.59:31177	HTTPS	HIA	MX Mexico City	fixed-187-189-120-59.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.24	
+new +	02-jan-2019 16:20 (36 days ago)
+282 177.241.244.219:39673	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	1.094	
+100% (2) +	02-jan-2019 13:37 (36 days ago)
+283 187.136.239.127:3128	HTTPS	HIA	MX Cancún (Quintana Roo)	dsl-187-136-239-127-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	1.102	
+67% (2) +	02-jan-2019 05:33 (36 days ago)
+284 201.159.22.164:50576	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	1.51	
+new +	02-jan-2019 03:34 (36 days ago)
+285 189.194.93.227:46323	HTTPS	HIA	MX Veracruz !!!	customer-XAL-93-227.megared.net.mx (Mega Cable, S.A. de C.V.)	1.487	
+50% (1) +	01-jan-2019 23:05 (36 days ago)
+286 187.216.83.181:8080	HTTPS (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur) !!!	customer-187-216-83-181.uninet-ide.com.mx (Uninet S.A. de C.V.)	2.982	
+60% (3) -	01-jan-2019 16:10 (37 days ago)
+287 187.217.189.229:8080	HTTP	ANM	MX Prados del Rosario (Mexico City)	customer-187-217-189-229.uninet-ide.com.mx (Uninet S.A. de C.V.)	4.64	
+6% (11) +	01-jan-2019 13:37 (37 days ago)
+288 189.201.240.148:44230	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.129	
+50% (1) +	01-jan-2019 12:24 (37 days ago)
+289 177.244.28.170:39580	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.796	
+new +	01-jan-2019 09:36 (37 days ago)
+290 187.190.237.113:46576	HTTP	HIA	MX Maravatio de Ocampo (Michoacán)	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.085	
+100% (2) -	01-jan-2019 07:28 (37 days ago)
+291 189.220.226.110:48498	HTTPS	HIA	MX Oaxaca City (Oaxaca)	189.220.226.110.cable.dyn.cableonline.com.mx (Cablemas Telecomunicaciones SA de CV)	1.192	
+new +	01-jan-2019 06:27 (37 days ago)
+292 187.190.221.71:3128	HTTP (Squid)	NOA	MX Chihuahua City (Chihuahua)	fixed-187-190-221-71.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.859	
+60% (165) +	01-jan-2019 00:57 (37 days ago)
+293 177.241.250.174:34180	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	1.351	
+100% (4) +	31-dec-2018 22:49 (37 days ago)
+294 187.176.123.155:57062	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	5.022	
+new +	31-dec-2018 21:03 (37 days ago)
+295 200.57.8.30:48035	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.206	
+new +	31-dec-2018 16:12 (38 days ago)
+296 189.198.239.61:49886	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.228	
+new +	31-dec-2018 15:28 (38 days ago)
+297 148.243.240.155:53657	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	2.841	
+new -	31-dec-2018 13:22 (38 days ago)
+298 177.244.28.170:34923	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.098	
+100% (2) +	31-dec-2018 11:14 (38 days ago)
+299 187.190.64.42:49481	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.196	
+50% (1) +	31-dec-2018 10:00 (38 days ago)
+300 187.189.59.181:57526	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.397	
+new +	31-dec-2018 08:22 (38 days ago)
+301 189.201.242.1:3128	HTTPS (Mikrotik)	NOA	MX Mexicali (Estado de Baja California) !!!	189.201.242.1.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	4.534	
+60% (3) +	31-dec-2018 07:58 (38 days ago)
+302 189.201.240.148:59017	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.162	
+new +	31-dec-2018 05:28 (38 days ago)
+303 187.191.20.3:50171	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-3.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.451	
+100% (2) +	31-dec-2018 04:12 (38 days ago)
+304 177.241.244.219:41666	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	1.228	
+100% (2) +	31-dec-2018 04:10 (38 days ago)
+305 187.189.120.59:58308	HTTPS	HIA	MX Mexico City	fixed-187-189-120-59.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.174	
+100% (2) +	30-dec-2018 22:16 (38 days ago)
+306 189.213.145.98:36442	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	0.98	
+new +	30-dec-2018 18:55 (39 days ago)
+307 187.190.73.164:56747	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-73-164.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.805	
+78% (7) +	30-dec-2018 12:36 (39 days ago)
+308 200.38.19.238:80	HTTP (Mikrotik)	NOA	MX !!!	200.38.19.238.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	6.766	
+50% (1) +	30-dec-2018 09:50 (39 days ago)
+309 200.33.143.75:31104	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	5.557	
+67% (2) +	30-dec-2018 08:31 (39 days ago)
+310 187.190.237.27:46576	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán) !!!	fixed-187-190-237-27.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.323	
+new -	30-dec-2018 07:06 (39 days ago)
+311 187.188.93.170:61187	HTTPS	HIA	MX Mexico City	fixed-187-188-93-170.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.309	
+100% (3) +	30-dec-2018 04:33 (39 days ago)
+312 187.188.213.4:45764	HTTPS	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.821	
+80% (4) +	29-dec-2018 20:47 (39 days ago)
+313 148.243.240.155:36723	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	1.847	
+67% (2) +	29-dec-2018 18:44 (40 days ago)
+314 200.57.8.30:51179	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.261	
+100% (3) +	29-dec-2018 15:33 (40 days ago)
+315 189.194.93.227:38783	HTTPS	HIA	MX Veracruz !!!	customer-XAL-93-227.megared.net.mx (Mega Cable, S.A. de C.V.)	1.487	
+100% (3) +	29-dec-2018 15:07 (40 days ago)
+316 201.174.63.225:3128	HTTPS (Mikrotik)	NOA	MX Mexicali (Estado de Baja California) !!!	201-174-63-225.transtelco.net (Tecnologías Avanzadas S. de R.L. de C.V.)	7.195	
+33% (1) -	29-dec-2018 13:39 (40 days ago)
+317 187.190.64.42:34734	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.392	
+100% (2) -	29-dec-2018 05:23 (40 days ago)
+318 138.122.96.61:8080	HTTP (Mikrotik)	NOA	MX Querétaro City (Querétaro) !!!	138.122.96.61 (IENTC S DE RL DE CV)	6.336	
+75% (3) -	29-dec-2018 00:00 (40 days ago)
+319 177.244.28.170:44901	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.148	
+67% (2) +	28-dec-2018 22:47 (40 days ago)
+320 187.189.82.93:34541	HTTPS	HIA	MX Cebollana (Veracruz)	fixed-187-189-82-93.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.357	
+100% (14) +	28-dec-2018 21:36 (40 days ago)
+321 187.191.20.12:37238	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-12.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.436	
+50% (1) -	28-dec-2018 20:44 (40 days ago)
+322 187.189.235.2:59132	HTTPS	HIA	MX Morelia (Michoacán)	fixed-187-189-235-2.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.352	
+83% (5) +	28-dec-2018 20:10 (40 days ago)
+323 131.196.143.117:33729	HTTP	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.143.117 (Road9 VASP S de RL de CV)	4.807	
+20% (1) -	28-dec-2018 19:29 (41 days ago)
+324 131.196.141.221:33729	HTTPS	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.141.221 (Road9 VASP S de RL de CV)	1.487	
+25% (1) -	28-dec-2018 12:24 (41 days ago)
+325 187.190.9.80:60554	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.285	
+100% (3) +	28-dec-2018 00:39 (41 days ago)
+326 132.248.54.127:8080	HTTPS (Mikrotik)	NOA	MX Coyoacan (Tabasco)	vegeta.fi-a.unam.mx (Universidad Nacional Autonoma de Mexico)	1.233	
+100% (4) +	28-dec-2018 00:18 (41 days ago)
+327 189.201.240.148:51229	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.173	
+100% (3) +	27-dec-2018 23:32 (41 days ago)
+328 189.195.162.222:53281	HTTPS	HIA	MX Los Mochis (Sinaloa)	customer-LMM-162-222.megared.net.mx (Mega Cable, S.A. de C.V.)	1.397	
+48% (96) -	27-dec-2018 21:06 (41 days ago)
+329 189.198.239.61:54493	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.58	
+50% (1) +	27-dec-2018 10:11 (42 days ago)
+330 201.159.22.164:35653	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	1.435	
+100% (3) +	27-dec-2018 08:21 (42 days ago)
+331 189.177.188.112:8080	HTTPS (Mikrotik)	NOA	MX Puerto Vallarta (Jalisco)	dsl-189-177-188-112-dyn.prod-infinitum.com.mx (Uninet S.A. de C.V.)	1.588	
+100% (3) -	26-dec-2018 22:39 (42 days ago)
+332 189.206.175.169:32662	HTTPS	HIA	MX Querétaro City (Querétaro) !!!	static-189-206-175-169.alestra.net.mx (Alestra, S. de R.L. de C.V.)	1.319	
+100% (2) +	26-dec-2018 18:19 (43 days ago)
+333 143.202.78.69:3128	HTTPS (Mikrotik)	NOA	MX Mexicali (Estado de Baja California)	143.202.78.69.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.931	
+new +	26-dec-2018 11:55 (43 days ago)
+334 131.196.248.72:45255	HTTPS	HIA	MX Guadalajara (Jalisco)	static-131-196-248-72.coeficiente.net (COEFICIENTE COMUNICACIONES SA DE CV)	5.643	
+50% (1) +	26-dec-2018 04:44 (43 days ago)
+335 170.81.143.223:8888	HTTP	HIA	MX San Juan de los Lagos (Jalisco)	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	8.268	
+33% (1) -	26-dec-2018 03:22 (43 days ago)
+336 131.196.143.100:33729	HTTP	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.143.100 (Road9 VASP S de RL de CV)	2.762	
+50% (1) -	26-dec-2018 01:00 (43 days ago)
+337 45.5.94.161:49542	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	1.044	
+new +	25-dec-2018 16:18 (44 days ago)
+338 170.81.141.249:33519	HTTPS	HIA	MX Cosio (Aguascalientes)	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	9.019	
+100% (4) +	25-dec-2018 13:22 (44 days ago)
+339 177.234.7.66:33799	HTTPS	HIA	MX Oaxaca City (Oaxaca)	177.234.7.66 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	4.132	
+100% (2) +	25-dec-2018 08:18 (44 days ago)
+340 200.33.143.75:59655	HTTPS	HIA	MX Tijuana (Estado de Baja California)	customer-200-33-143-75.uninet.net.mx (Telefonos del Noroeste, S.A. de C.V.)	6.773	
+59% (10) +	25-dec-2018 00:39 (44 days ago)
+341 187.176.123.155:49303	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	0.855	
+67% (2) +	24-dec-2018 18:11 (45 days ago)
+342 200.57.8.30:30566	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.131	
+new +	24-dec-2018 17:34 (45 days ago)
+343 187.188.213.4:45941	HTTPS	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.216	
+50% (1) +	24-dec-2018 15:21 (45 days ago)
+344 189.199.69.122:46852	HTTPS	HIA	MX Tlajomulco de Zuniga (Jalisco)	customer-GDL-69-122.megared.net.mx (Mega Cable, S.A. de C.V.)	1.207	
+100% (2) +	24-dec-2018 11:10 (45 days ago)
+345 131.196.141.101:33729	HTTPS	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.141.101 (Road9 VASP S de RL de CV)	4.89	
+new -	24-dec-2018 08:35 (45 days ago)
+346 187.216.90.46:53281	HTTPS	HIA	MX San José del Cabo (Baja California Sur)	customer-187-216-90-46.uninet-ide.com.mx (Uninet S.A. de C.V.)	2.662	
+67% (2)	24-dec-2018 06:24 (45 days ago)
+347 189.213.145.98:39511	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	7.429	
+new +	24-dec-2018 05:38 (45 days ago)
+348 177.241.244.219:38636	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	1.323	
+75% (3) +	24-dec-2018 04:46 (45 days ago)
+349 187.189.59.181:52249	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	0.966	
+50% (1) +	23-dec-2018 23:22 (45 days ago)
+350 201.159.22.164:48053	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	1.726	
+75% (3) +	23-dec-2018 23:11 (45 days ago)
+351 187.189.120.59:39052	HTTPS	HIA	MX Mexico City	fixed-187-189-120-59.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.344	
+100% (3) +	23-dec-2018 18:43 (46 days ago)
+352 189.201.240.148:32861	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.388	
+new +	23-dec-2018 12:35 (46 days ago)
+353 200.57.8.30:43279	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.248	
+75% (3) +	23-dec-2018 08:00 (46 days ago)
+354 187.191.20.6:41250	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-6.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.886	
+new -	22-dec-2018 22:15 (46 days ago)
+355 189.194.93.227:42882	HTTPS	HIA	MX Veracruz !!!	customer-XAL-93-227.megared.net.mx (Mega Cable, S.A. de C.V.)	4.384	
+83% (5) -	22-dec-2018 17:05 (47 days ago)
+356 187.188.213.4:51445	HTTPS	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.258	
+100% (4) +	22-dec-2018 15:03 (47 days ago)
+357 201.158.107.109:44906	HTTPS	HIA	MX Coacalco (Estado de Mexico)	201.158.107.109 (COMUNICALO DE MEXICO S.A. DE C.V)	1.596	
+26% (6) +	22-dec-2018 12:57 (47 days ago)
+358 187.189.235.2:32394	HTTPS	HIA	MX Morelia (Michoacán)	fixed-187-189-235-2.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.465	
+new +	22-dec-2018 10:14 (47 days ago)
+359 181.191.248.41:8080	HTTPS (Mikrotik)	NOA	MX Manzanillo (Colima)	static-181-191-248-41.coeficiente.net (COEFICIENTE COMUNICACIONES SA DE CV)	1.47	
+new +	21-dec-2018 15:33 (48 days ago)
+360 189.199.69.122:33002	HTTP	HIA	MX Tlajomulco de Zuniga (Jalisco)	customer-GDL-69-122.megared.net.mx (Mega Cable, S.A. de C.V.)	4.272	
+100% (5) +	21-dec-2018 12:30 (48 days ago)
+361 131.196.141.10:33729	HTTP	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.141.10 (Road9 VASP S de RL de CV)	5.095	
+25% (1) -	21-dec-2018 11:24 (48 days ago)
+362 187.190.237.113:42082	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán) !!!	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.602	
+new +	21-dec-2018 11:14 (48 days ago)
+363 187.190.9.80:38624	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.33	
+100% (2) +	21-dec-2018 08:25 (48 days ago)
+364 189.194.48.158:49629	HTTPS	HIA	MX Hermosillo (Sonora) !!!	customer-MCA-GYS-48-158.megared.net.mx (Mega Cable, S.A. de C.V.)	1.314	
+67% (2) +	21-dec-2018 05:19 (48 days ago)
+365 187.177.95.12:33351	HTTPS	HIA	MX Toluca (Estado de Mexico)	187-177-95-12.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.131	
+new +	21-dec-2018 03:32 (48 days ago)
+366 168.194.88.152:51134	HTTPS	HIA	MX Tijuana (Estado de Baja California)	168.194.88.152.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	1.313	
+100% (22) -	20-dec-2018 17:18 (49 days ago)
+367 143.255.40.30:30712	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.216	
+new +	20-dec-2018 06:34 (49 days ago)
+368 187.176.123.155:43170	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.825	
+86% (6) +	20-dec-2018 05:42 (49 days ago)
+369 177.244.28.170:54073	HTTPS	HIA	MX Victoria (Guanajuato)	customer-TOLU-28-170.megared.net.mx (Mega Cable, S.A. de C.V.)	1.202	
+80% (4) +	20-dec-2018 04:23 (49 days ago)
+370 201.139.125.233:60884	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	1.095	
+86% (6) +	20-dec-2018 00:46 (49 days ago)
+371 187.191.20.13:41250	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-13.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.318	
+new +	19-dec-2018 23:15 (49 days ago)
+372 170.81.141.249:31071	HTTPS	HIA	MX Cosio (Aguascalientes)	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	0.959	
+100% (11) +	19-dec-2018 21:16 (49 days ago)
+373 187.191.20.3:41250	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-3.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.022	
+100% (6) +	19-dec-2018 19:33 (50 days ago)
+374 189.206.175.169:30547	HTTPS	HIA	MX Querétaro City (Querétaro) !!!	static-189-206-175-169.alestra.net.mx (Alestra, S. de R.L. de C.V.)	1.028	
+100% (5) +	19-dec-2018 10:31 (50 days ago)
+375 189.213.145.98:51981	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	9.668	
+67% (4) +	18-dec-2018 23:01 (50 days ago)
+376 187.188.213.4:35060	HTTPS	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	2.065	
+100% (9) -	18-dec-2018 18:54 (51 days ago)
+377 200.57.8.30:48352	HTTPS	HIA	MX Durango	30.200-57-8.bestel.com.mx (Operbes, S.A. de C.V.)	1.512	
+100% (10) +	18-dec-2018 08:26 (51 days ago)
+378 187.190.237.27:52861	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán) !!!	fixed-187-190-237-27.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	9.399	
+100% (3) +	18-dec-2018 05:27 (51 days ago)
+379 189.194.48.158:35163	HTTPS	HIA	MX Hermosillo (Sonora) !!!	customer-MCA-GYS-48-158.megared.net.mx (Mega Cable, S.A. de C.V.)	4.773	
+80% (4) +	18-dec-2018 04:31 (51 days ago)
+380 189.201.240.148:52691	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.667	
+83% (5) +	17-dec-2018 22:50 (51 days ago)
+381 187.188.213.252:8080	HTTPS (Mikrotik)	NOA	MX Puebla City (Puebla)	fixed-187-188-213-252.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.72	
+100% (2) -	17-dec-2018 21:36 (51 days ago)
+382 200.94.140.50:31552	HTTPS	HIA	MX	static-200-94-140-50.alestra.net.mx (Alestra, S. de R.L. de C.V.)	2.011	
+92% (12) -	17-dec-2018 19:33 (52 days ago)
+383 201.139.109.137:57373	HTTP	HIA	MX Cancún (Quintana Roo) !!!	201.139.109.137 (Kiwi Networks S A P I de CV)	11.393	
+new -	17-dec-2018 18:40 (52 days ago)
+384 187.216.83.185:8080	HTTP (Mikrotik)	NOA	MX Cabo San Lucas (Baja California Sur) !!!	187.216.83.185 (Uninet S.A. de C.V.)	5.197	
+57% (4) +	17-dec-2018 15:34 (52 days ago)
+385 177.234.7.66:37841	HTTPS	HIA	MX Oaxaca City (Oaxaca)	177.234.7.66 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	4.696	
+60% (3) +	17-dec-2018 08:21 (52 days ago)
+386 177.240.221.205:8888	HTTPS (Mikrotik)	NOA	MX Tlajomulco de Zuniga (Jalisco)	customer-GDL-221-205.megared.net.mx (Mega Cable, S.A. de C.V.)	1.432	
+86% (6) +	17-dec-2018 07:16 (52 days ago)
+387 187.241.247.58:8080	HTTPS (Mikrotik)	NOA	MX Sahuayo de Morelos (Michoacán)	customer-ZRA-247-58.megared.net.mx (Mega Cable, S.A. de C.V.)	2.068	
+100% (5) +	17-dec-2018 05:00 (52 days ago)
+388 187.190.9.80:40899	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.363	
+71% (5) +	16-dec-2018 23:21 (52 days ago)
+389 201.159.22.164:41651	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	5.497	
+80% (4) +	16-dec-2018 23:18 (52 days ago)
+390 201.139.109.140:57373	HTTPS	HIA	MX Cancún (Quintana Roo)	201.139.109.140 (Kiwi Networks S A P I de CV)	9.936	
+new -	16-dec-2018 18:51 (53 days ago)
+391 189.198.239.61:60665	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.225	
+71% (5) +	16-dec-2018 18:30 (53 days ago)
+392 177.241.250.174:30797	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	1.329	
+86% (6) +	16-dec-2018 09:34 (53 days ago)
+393 187.190.237.113:52861	HTTP	HIA	MX Maravatio de Ocampo (Michoacán) !!!	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.959	
+new -	16-dec-2018 05:24 (53 days ago)
+394 201.132.155.42:51399	HTTPS	HIA	MX Culiacán (Sinaloa)	customer-CLN-155-42.megared.net.mx (Mega Cable, S.A. de C.V.)	1.329	
+100% (11) +	16-dec-2018 03:31 (53 days ago)
+395 143.255.40.30:51974	HTTPS	HIA	MX Tlalnepantla (Estado de Mexico)	143.255.40.30 (SMARTNETT CARRIER SA DE CV)	1.082	
+100% (11) +	15-dec-2018 22:49 (53 days ago)
+396 187.189.235.2:48011	HTTPS	HIA	MX Morelia (Michoacán)	fixed-187-189-235-2.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.042	
+38% (3) +	15-dec-2018 10:20 (54 days ago)
+397 177.234.2.58:31683	HTTPS	HIA	MX Mexico City !!!	177.234.2.58 (SECRETARIA DE COMUNICACIONES Y TRANSPORTES COORDINACION DE LA SOCIEDAD DE LA INFORMACION Y E)	1.142	
+100% (3) +	15-dec-2018 04:17 (54 days ago)
+398 201.139.109.145:57373	HTTPS	HIA	MX Cancún (Quintana Roo) !!!	201.139.109.145 (Kiwi Networks S A P I de CV)	10.945	
+new +	14-dec-2018 19:08 (55 days ago)
+399 200.38.19.236:80	HTTP (Mikrotik)	NOA	MX !!!	200.38.19.236.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	3.288	
+100% (2) -	14-dec-2018 04:22 (55 days ago)
+400 177.241.244.219:46049	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	1.466	
+88% (7) +	13-dec-2018 21:16 (55 days ago)
+401 45.5.94.161:39987	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	3.19	
+67% (2) +	13-dec-2018 18:54 (56 days ago)
+402 200.94.21.198:8080	HTTPS (Squid)	ANM	MX Mexico City !!!	static-200-94-21-198.alestra.net.mx (Alestra, S. de R.L. de C.V.)	13.208	
+2% (2) +	13-dec-2018 14:21 (56 days ago)
+403 177.244.41.242:8080	HTTPS (Mikrotik)	NOA	MX	customer-TOLU-41-242.megared.net.mx (Mega Cable, S.A. de C.V.)	5.157	
+60% (3) +	13-dec-2018 07:57 (56 days ago)
+404 45.5.94.114:48219	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	7.038	
+50% (1) -	13-dec-2018 05:05 (56 days ago)
+405 187.188.168.57:999	HTTPS (Mikrotik)	NOA	MX Oaxaca City (Oaxaca)	fixed-187-188-168-57.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.453	
+62% (8) +	13-dec-2018 01:12 (56 days ago)
+406 45.5.94.134:48219	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	4.257	
+100% (5) -	12-dec-2018 07:50 (57 days ago)
+407 187.188.93.170:44361	HTTPS	HIA	MX Mexico City	fixed-187-188-93-170.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.057	
+42% (5) +	11-dec-2018 21:17 (57 days ago)
+408 187.189.59.181:34677	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.597	
+86% (6) +	10-dec-2018 21:18 (58 days ago)
+409 148.243.240.155:48441	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	3.414	
+100% (3) +	10-dec-2018 19:01 (59 days ago)
+410 189.206.175.169:35961	HTTPS	HIA	MX Querétaro City (Querétaro) !!!	static-189-206-175-169.alestra.net.mx (Alestra, S. de R.L. de C.V.)	5.173	
+67% (2) +	10-dec-2018 14:57 (59 days ago)
+411 187.176.123.155:44479	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	0.985	
+new +	10-dec-2018 12:23 (59 days ago)
+412 131.196.248.71:45255	HTTP	HIA	MX Guadalajara (Jalisco)	static-131-196-248-71.coeficiente.net (COEFICIENTE COMUNICACIONES SA DE CV)	10.2	
+100% (2) -	10-dec-2018 07:33 (59 days ago)
+413 201.143.32.82:8080	HTTP (Mikrotik)	NOA	MX	201.143.32.82.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	6.584	
+32% (7) -	10-dec-2018 06:29 (59 days ago)
+414 131.196.143.28:33729	HTTP	HIA	MX Tecamac (Estado de Mexico) !!!	131.196.143.28 (Road9 VASP S de RL de CV)	4.462	
+100% (2) -	10-dec-2018 05:30 (59 days ago)
+415 189.196.168.78:50330	HTTPS	HIA	MX San José del Cabo (Baja California Sur)	customer-LPAZ-168-78.megared.net.mx (SERVICIO Y EQUIPO EN TELEFONÍA INTERNET Y TV S.A. DE C.V.)	4.605	
+100% (6) +	10-dec-2018 05:26 (59 days ago)
+416 189.201.240.148:38156	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.644	
+50% (2) +	09-dec-2018 22:46 (59 days ago)
+417 201.163.73.93:53281	HTTPS	HIA	MX Tlaquepaque (Jalisco)	static-201-163-73-93.alestra.net.mx (Alestra, S. de R.L. de C.V.)	13.109	
+100% (2)	08-dec-2018 20:40 (60 days ago)
+418 187.191.20.3:36857	HTTPS	HIA	MX Chetumal (Quintana Roo) !!!	fixed-187-191-20-3.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.543	
+100% (2) +	07-dec-2018 23:30 (61 days ago)
+419 189.194.93.227:46134	HTTPS	HIA	MX Veracruz !!!	customer-XAL-93-227.megared.net.mx (Mega Cable, S.A. de C.V.)	1.095	
+new +	07-dec-2018 17:30 (62 days ago)
+420 189.213.145.98:38576	HTTPS	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	1.923	
+50% (1) +	07-dec-2018 00:37 (62 days ago)
+421 189.198.239.61:30186	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.197	
+100% (4) +	06-dec-2018 22:59 (62 days ago)
+422 187.189.120.59:49676	HTTPS	HIA	MX Mexico City	fixed-187-189-120-59.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.245	
+new +	06-dec-2018 19:05 (63 days ago)
+423 201.139.109.142:57373	HTTP	HIA	MX Cancún (Quintana Roo) !!!	201.139.109.142 (Kiwi Networks S A P I de CV)	6.606	
+40% (2) -	06-dec-2018 18:43 (63 days ago)
+424 189.194.93.227:59663	HTTPS	HIA	MX Veracruz !!!	customer-XAL-93-227.megared.net.mx (Mega Cable, S.A. de C.V.)	5.275	
+100% (3) +	06-dec-2018 13:36 (63 days ago)
+425 177.244.41.158:999	HTTPS (Mikrotik)	NOA	MX	customer-TOLU-41-158.megared.net.mx (Mega Cable, S.A. de C.V.)	1.495	
+86% (6) +	06-dec-2018 13:24 (63 days ago)
+426 138.94.140.182:36584	HTTPS	HIA	MX Mexico City !!!	138.94.140.182 (Jobnetworks de México, S.A. de C.V.)	1.11	
+50% (1) +	05-dec-2018 23:21 (63 days ago)
+427 189.201.240.148:36937	HTTPS	HIA	MX Ensenada (Estado de Baja California)	189.201.240.148.red-7.net (Tecnologías Avanzadas S. de R.L. de C.V.)	1.25	
+new +	05-dec-2018 16:55 (64 days ago)
+428 189.240.193.34:51167	HTTPS	HIA	MX Cuernavaca (Morelos)	customer-189-240-193-34.uninet-ide.com.mx (Uninet S.A. de C.V.)	1.888	
+88% (21) -	05-dec-2018 14:51 (64 days ago)
+429 148.243.240.155:42738	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	2.338	
+67% (2) +	05-dec-2018 12:20 (64 days ago)
+430 187.190.64.42:36567	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	3.176	
+new +	05-dec-2018 09:51 (64 days ago)
+431 187.189.235.2:52164	HTTPS	HIA	MX Morelia (Michoacán)	fixed-187-189-235-2.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.009	
+50% (1) +	05-dec-2018 07:38 (64 days ago)
+432 189.213.145.98:57576	HTTP	HIA	MX San Pedro Garza Garcia (Nuevo León)	189.213.145.98 (Axtel, S.A.B. de C.V.)	7.842	
+100% (2) -	05-dec-2018 03:18 (64 days ago)
+433 187.189.178.60:3128	HTTPS (Mikrotik)	NOA	MX Lerma de Villada (Estado de Mexico)	fixed-187-189-178-60.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.106	
+100% (3) +	04-dec-2018 19:18 (65 days ago)
+434 207.248.113.247:33420	HTTPS	HIA	MX Morelia (Michoacán) !!!	dhcp-207.248.113.247.redes.rcm.net.mx (Redes y Comunicaciones de Michoacan S.A. de C.V.)	1.159	
+50% (1) +	04-dec-2018 18:43 (65 days ago)
+435 187.190.237.113:33325	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán) !!!	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.035	
+75% (3) +	04-dec-2018 17:20 (65 days ago)
+436 187.176.123.155:38944	HTTPS	HIA	MX Mexico City	187-176-123-155.dynamic.axtel.net (Axtel, S.A.B. de C.V.)	1.148	
+new +	04-dec-2018 14:10 (65 days ago)
+437 201.139.125.233:57307	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	1.627	
+100% (2) +	04-dec-2018 10:14 (65 days ago)
+438 189.206.175.169:58351	HTTPS	HIA	MX Querétaro City (Querétaro) !!!	static-189-206-175-169.alestra.net.mx (Alestra, S. de R.L. de C.V.)	1.346	
+new +	03-dec-2018 22:17 (65 days ago)
+439 45.5.94.134:57047	HTTPS	HIA	MX Ramos Arizpe (Coahuila) !!!	slw.nrtmexico.mx (Señal Interactiva, S.A De C.V)	4.01	
+67% (2) -	03-dec-2018 11:12 (66 days ago)
+440 177.241.244.219:38751	HTTPS	HIA	MX Pueblo Hidalgo (Hidalgo)	customer-MCA-TLN-244-219.megared.net.mx (Mega Cable, S.A. de C.V.)	1.077	
+new +	03-dec-2018 10:32 (66 days ago)
+441 187.189.60.75:48890	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-60-75.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.09	
+new +	03-dec-2018 10:24 (66 days ago)
+442 177.241.250.174:37958	HTTPS	HIA	MX Uruapan (Michoacán)	customer-MCA-URUA-250-174.megared.net.mx (Mega Cable, S.A. de C.V.)	1.154	
+50% (1) +	03-dec-2018 05:34 (66 days ago)
+443 148.243.240.155:47287	HTTPS	HIA	MX	na-148-243-240-155.static.avantel.net.mx (Axtel, S.A.B. de C.V.)	4.346	
+new +	02-dec-2018 20:51 (66 days ago)
+444 189.206.175.169:55918	HTTP	HIA	MX Querétaro City (Querétaro) !!!	static-189-206-175-169.alestra.net.mx (Alestra, S. de R.L. de C.V.)	7.522	
+50% (1) +	02-dec-2018 17:30 (67 days ago)
+445 187.190.64.42:47702	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-64-42.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.374	
+100% (2) +	02-dec-2018 16:46 (67 days ago)
+446 201.159.22.164:53018	HTTPS	HIA	MX Tijuana (Estado de Baja California)	22.164.ip.konectate.co (Konecta de Mexico, S. de R.L. de C.V.)	1.747	
+100% (4) +	02-dec-2018 16:31 (67 days ago)
+447 138.122.96.110:8080	HTTPS (Mikrotik)	NOA	MX Querétaro City (Querétaro) !!!	138.122.96.110 (IENTC S DE RL DE CV)	6.071	
+50% (3) -	02-dec-2018 15:25 (67 days ago)
+448 187.190.73.164:51577	HTTPS	HIA	MX Hermosillo (Sonora)	fixed-187-190-73-164.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	6.068	
+100% (3) +	02-dec-2018 10:33 (67 days ago)
+449 201.132.155.42:47543	HTTPS	HIA	MX Culiacán (Sinaloa)	customer-CLN-155-42.megared.net.mx (Mega Cable, S.A. de C.V.)	2.913	
+new +	02-dec-2018 09:28 (67 days ago)
+450 131.72.230.151:39954	HTTPS	HIA	MX Tijuana (Estado de Baja California)	131.72.230.151 (Konecta de Mexico, S. de R.L. de C.V.)	8.324	
+33% (3) -	02-dec-2018 09:21 (67 days ago)
+451 187.189.59.181:52943	HTTPS	HIA	MX Mérida (Yucatán)	fixed-187-189-59-181.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.56	
+100% (3) +	01-dec-2018 22:22 (67 days ago)
+452 189.194.93.227:51532	HTTPS	HIA	MX Veracruz !!!	customer-XAL-93-227.megared.net.mx (Mega Cable, S.A. de C.V.)	1.154	
+50% (1) +	01-dec-2018 21:30 (67 days ago)
+453 170.81.141.34:53281	HTTPS	HIA	MX Aguascalientes !!!	nuevared.mx (NUEVA RED INTERNET DE MEXICO S DE RL DE CV)	3.973	
+50% (2)	01-dec-2018 18:31 (68 days ago)
+454 201.139.109.131:57373	HTTPS	HIA	MX Cancún (Quintana Roo) !!!	201.139.109.131 (Kiwi Networks S A P I de CV)	5.671	
+100% (2) -	01-dec-2018 17:37 (68 days ago)
+455 200.38.19.225:80	HTTPS (Mikrotik)	NOA	MX !!!	200.38.19.225.ded.telnor.net (Telefonos del Noroeste, S.A. de C.V.)	4.229	
+40% (2) -	01-dec-2018 12:14 (68 days ago)
+456 187.189.235.2:59483	HTTPS	HIA	MX Morelia (Michoacán)	fixed-187-189-235-2.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	12.087	
+50% (1) -	01-dec-2018 11:53 (68 days ago)
+457 189.196.168.78:30851	HTTPS	HIA	MX San José del Cabo (Baja California Sur)	customer-LPAZ-168-78.megared.net.mx (SERVICIO Y EQUIPO EN TELEFONÍA INTERNET Y TV S.A. DE C.V.)	3.537	
+new +	01-dec-2018 07:39 (68 days ago)
+458 200.94.140.50:49092	HTTPS	HIA	MX	static-200-94-140-50.alestra.net.mx (Alestra, S. de R.L. de C.V.)	1.2	
+50% (1) +	30-nov-2018 22:09 (68 days ago)
+459 187.190.9.80:33931	HTTPS	HIA	MX Magdalena (Jalisco)	fixed-187-190-9-80.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	7.387	
+new -	30-nov-2018 15:09 (69 days ago)
+460 189.198.239.61:52490	HTTPS	HIA	MX Guaymas (Sonora)	customer-MCA-GYS-239-61.megared.net.mx (Mega Cable, S.A. de C.V.)	1.518	
+new +	30-nov-2018 10:35 (69 days ago)
+461 201.139.125.233:35501	HTTPS	HIA	MX Tijuana (Estado de Baja California)	201.139.125.233 (Kiwi Networks S A P I de CV)	1.093	
+100% (4) +	30-nov-2018 04:52 (69 days ago)
+462 187.190.237.113:37682	HTTPS	HIA	MX Maravatio de Ocampo (Michoacán)	fixed-187-190-237-113.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.022	
+100% (4) +	30-nov-2018 04:42 (69 days ago)
+463 187.188.213.4:50635	HTTPS	HIA	MX Puebla City (Puebla)	fixed-187-188-213-4.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	0.997	
+100% (3) +	30-nov-2018 00:19 (69 days ago)
+464 187.189.16.78:999	HTTPS (Mikrotik)	NOA	MX Puebla City (Puebla)	fixed-187-189-16-78.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	4.313	
+78% (7) +	29-nov-2018 20:53 (69 days ago)
+465 187.189.82.93:51415	HTTPS	HIA	MX Cebollana (Veracruz)	fixed-187-189-82-93.totalplay.net (TOTAL PLAY TELECOMUNICACIONES SA DE CV)	1.632	
+100% (2) +	29-nov-2018 18:34 (70 days ago)
+*NOA - non anonymous proxy, ANM - anonymous proxy server, HIA - high anonymous proxy. **Latency - lower = better. ***Relative to another servers. HTTPS - HTTP proxy with SSL support.
+
+ 
+Free proxy list © 2008-2018 Full version	
