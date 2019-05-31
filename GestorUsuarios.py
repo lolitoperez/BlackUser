@@ -134,8 +134,9 @@ class GestorUsuarios(object):
         return self.DICTIONARY_USERS[str(randrange(0,10))]
 
 if __name__ == '__main__':
+    system('export DISPLAY=:4')
     system('nohup tor &')
-    system('echo "DarkUser5" | sudo nohup mongod &> mongo.out')
+    system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
     timeMinutes = sys.argv[1]
     recurrents = sys.argv[2]
 
