@@ -20,8 +20,6 @@ class SuperUser(object):
         self.local_logger = logging.getLogger('super_logger')
         self.local_logger.setLevel(logging.DEBUG)
                         
-        # self.usuarios = 2000000
-        # self.desviaciones = [10.0,10.0,3.0,4.0,4.0,5.0]
 
     def search(self, key_word, browser):
         self.local_logger.info('Abriendo navegador')
@@ -141,13 +139,3 @@ class SuperUser(object):
             return 'darwin'
         # elif platform == "win32":
 
-
-    
-        
-
-
-if __name__ == '__main__':
-    su = SuperUser()
-    # su.search('letshome', 'bing')
-    # su.visitWebSite('http://ecleneue.com/TMj', 'google')
-    su.search('departamentos en renta letshome','google')

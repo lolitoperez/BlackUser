@@ -1,14 +1,10 @@
 from datetime import datetime
-import pymongo
 from getpass import getuser
 class Log(object):
 	"""Modulo de logs :)"""
 	def __init__(self,proxy,dictproxy,nombre):
 		super(Log, self).__init__()
 		self.nombre = nombre
-		self.conect =  pymongo.MongoClient('mongodb://Scraper%2Fops:R3vim3x5o5%2F%2F@104.199.125.135:27017/admin')
-		self.db = self.conect.XLamudi
-		self.collection = self.db['historial_superuser']
 		self.cookie = {
 						'IP_server':self.nombre,
 						'proxy':proxy,

@@ -2,7 +2,6 @@ from random import shuffle,randrange
 from datetime import datetime
 from copy import deepcopy
 import random
-import pymongo
 import re
 import numpy as np
 
@@ -599,10 +598,6 @@ class Usuario:
             self.estadoParental ='ConHijos'
             self.horario = range(9,22)
             # try:
-            #   self.getSearch()
-            # except Exception as e:
-            #   print(e)
-            #   self.palabrasClave = listKeywords[randrange(0,len(listKeywords))] #self.frase(4)
             url_elegido=self.links_nuevos[int(np.random.uniform(0,len(self.links_nuevos)+1))]
             self.log_url.set_url_buscado(url_elegido)
             self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')+' letshome' #self.frase(4)

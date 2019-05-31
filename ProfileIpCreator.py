@@ -92,17 +92,7 @@ def recabarIPs():
     return [elementos for elementos in buscarIp()],[elementos for elementos in buscarPuertos()]
 
 def proceso():
-    #inicio=datetime.datetime.now()
-    #fin=datetime.datetime.now()
 
-    #duracion=float(sys.argv[1])
-    #duracion=duracion*3600
-
-    #resultado=fin-inicio
-
-    #os.system('firefox')
-    #wb.open('https://www.google.com')
-    #time.sleep(5)
     global IPS,Puerto
 
     if pyautogui.locateCenterOnScreen('max.png',grayscale=True)!=None:
@@ -125,8 +115,6 @@ def proceso():
     pyautogui.click(configx,configy)
     time.sleep(1)
 
-    #print(pyautogui.locateCenterOnScreen('ProxyActivado.png'))
-    #print(pyautogui.locateCenterOnScreen('Proxy.png'))
     pyautogui.click(201,200)
 
     if pyautogui.locateCenterOnScreen('ProxyActivado.png',grayscale=True)==None:

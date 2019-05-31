@@ -93,9 +93,6 @@ class GestorUsuarios(object):
 
         # Finalizado
     def proccessUser(self, user):
-        #print('[X] -- Inicia Usuario')
-        # user.getUserParameters()
-        #print('[X] -- Obtiene parametros de usuario')
         user.setParameters()
         
     def finaliceSession(self, user):
@@ -137,17 +134,6 @@ class GestorUsuarios(object):
     def __getUsers(self):
 
         return self.DICTIONARY_USERS[str(randrange(0,10))]
-
-
-
-if __name__ == '__main__':
-    timeMinutes = sys.argv[1]
-    recurrents = sys.argv[2]
-
-    gu = GestorUsuarios(int(recurrents))
-    # gu.setProxies()
-    gu.createUsers(int(timeMinutes))
-
 
 
 

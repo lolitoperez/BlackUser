@@ -304,11 +304,5 @@ class KeyBoard(object):
     
         sleep(1)
 
-if __name__ == '__main__':
-    kb = KeyBoard()
-    sleep(10)
-    kb.findSite('letshome')
-
-
 
 
