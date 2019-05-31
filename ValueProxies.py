@@ -56,8 +56,13 @@ class ValueProxies():
                 respuesta = session.get('http://ipinfo.io/json')
                 res = 1
                 ipactual=respuesta.json()
+                print("aaa")
                 db.actual.insert_one[ipactual]
+                print("bbbb")
+                cliente.close()
+                print("cccc")
             except Exception as e:
+                cliente.close()
                 #print("Supero el timeout")
                 intentos += 1
                 #print("Intntos", intentos)
