@@ -42,7 +42,6 @@ class ValueProxies():
         # elif platform == "win32":
 
     def obtener_proxy_buena(self, verbose=False):
-        #print("algo")
         intentos = 0
         puerto = '9050'
         res  = None
@@ -56,7 +55,12 @@ class ValueProxies():
                 res = 1
                 ipactual=respuesta.json()
                 db = cliente.ip
-                db.actual.insert_one(ipactual)
+                ipguardadas = []
+                algo = db.actual.find({})
+                for ip in algo:
+                    ipguardadas.append(ip['ip'])
+                if ipactual['ip'] not in ipguardadas:
+                    db.actual.insert_one(ipactual)
                 cliente.close()
             except Exception as e:
                 cliente.close()
