@@ -46,7 +46,6 @@ class ValueProxies():
         intentos = 0
         puerto = '9050'
         res  = None
-        print("aaaaaaaaa")
         while not res:
             session = requests.session()
             session.proxies = {}
@@ -56,12 +55,9 @@ class ValueProxies():
                 respuesta = session.get('http://ipinfo.io/json')
                 res = 1
                 ipactual=respuesta.json()
-                print("aaasssssss")
                 db = cliente.ip
                 db.actual.insert_one(ipactual)
-                print("bbbb")
                 cliente.close()
-                print("cccc")
             except Exception as e:
                 cliente.close()
                 #print("Supero el timeout")
