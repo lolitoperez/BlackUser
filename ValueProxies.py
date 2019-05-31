@@ -7,7 +7,7 @@ from sys import platform
 from pymongo import MongoClient
 pyautogui.PAUSE=2
 pyautogui.FAILSAFE=False
-
+import time
 from requests import get
 from fake_useragent import UserAgent
 from Log import Log
@@ -58,9 +58,43 @@ class ValueProxies():
                     respuesta = session.get('https://ipinfo.io/json')
                     ipactual=respuesta.json()
                 except: 
-                    respuesta = session.get('https://ipapi.co/json')
-                    ipactual=respuesta.json()
-                print(ipactual)
+                    try:
+                        respuesta = session.get('https://ipapi.co/json')
+                        ipactual=respuesta.json()
+                    except:
+                        try:
+                            respuesta = session.get('http://ip-api.com/json')
+                            ipactual=respuesta.json()
+                            ipactual['ip'] = ipactual['query']
+                        except:
+                            try:
+                                respuesta = session.get('https://api.myip.com/')
+                                ipactual=respuesta.json()
+                            except:
+                                try:
+                                    respuesta = session.get('https://api.myip.com/')
+                                    ipactual=respuesta.json()
+                                    ipactual = ipactual['ip']
+                                except:
+                                    try:
+                                        respuesta = session.get('http://ipapi.xyz/json')
+                                        ipactual=respuesta.json()
+                                    except:
+                                        try:
+                                            respuesta = session.get('http://free.ipwhois.io/json/')
+                                            ipactual=respuesta.json()
+                                        except:
+                                            try:
+                                                respuesta = session.get('https://api.ip.sb/geoip/')
+                                                ipactual=respuesta.json()
+                                            except:
+                                                try:
+                                                    respuesta = session.get('https://ip-api.io/json/')
+                                                    ipactual=respuesta.json()
+                                                except:
+                                                    respuesta = session.get('http://www.geoplugin.net/json.gp?ip')
+                                                    ipactual=respuesta.json()
+                                                    ipactual['ip'] = ipactual['geoplugin_request']
                 db = cliente.ip
                 ipguardadas = []
                 algo = db.actual.find({})
@@ -75,6 +109,7 @@ class ValueProxies():
                 cliente.close()
             except Exception as e:
                 system('killall tor')
+                time.sleep(2)
                 system('echo "DarkUser5" | sudo -S rm -r nohup.out')
                 cliente.close()
                 #print("Supero el timeout")
