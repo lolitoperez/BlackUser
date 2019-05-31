@@ -3,6 +3,8 @@ import time
 import requests
 from os import system
 
+cliente = MongoClient()
+
 class Saca:
 
     def obtener_proxy_buena():
