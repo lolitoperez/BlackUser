@@ -36,8 +36,7 @@ class GestorUsuarios(object):
     def createUsers(self, timeMinutes):
         ip = self.__get_ip()
         startTime = datetime.now()
-        timeSeconds = timeMinutes*60
-        print(timeSeconds)
+        timeSeconds = int(timeMinutes*60)
         timeRest = 0 
         timesExecute = 0
         userWebTmp = None
@@ -45,7 +44,7 @@ class GestorUsuarios(object):
         try:
             while timeRest < timeSeconds:
                 self.setProxies()
-
+                print(timeRestm)
                 #print('[X] -- Obtiene tipo de usuario')
                 typeUser = self.getTypeUser()
                 #proxy = self.listProxies[randrange(0, len(self.listProxies))]
@@ -143,7 +142,6 @@ class GestorUsuarios(object):
 if __name__ == '__main__':
     timeMinutes = sys.argv[1]
     recurrents = sys.argv[2]
-    print("llego", timeMinutes,recurrents)
     system('export DISPLAY=:4')
     system('nohup tor &')
     system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
