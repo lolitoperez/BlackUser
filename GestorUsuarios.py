@@ -82,7 +82,6 @@ class GestorUsuarios(object):
 
 
         except Exception as e:
-            print(e)
             self.__set_error(format_exc(), 'E_superuser.txt')
             
             hotkey('ctrl', 'w')
