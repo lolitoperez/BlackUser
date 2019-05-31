@@ -52,8 +52,9 @@ class GestorUsuarios(object):
                 self.local_logger.info('Terminé obteniendo proxy buena')
                 #print('[X] -- Obtiene usuario ', typeUser)
                 if typeUser:
-                    system('nohup tor &')
                     print("aaaa")
+                    system('nohup tor &')
+                    print("aaaa2")
                     logObject = Log(proxy,dictproxy,ip)
                     #este usuario tiene la proxy cargada como campo, la cargará en firefox
                     self.local_logger.info('Instanciando usuario')
