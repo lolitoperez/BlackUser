@@ -58,7 +58,7 @@ class ValueProxies():
                 ipactual=respuesta.json()
                 print("aaasssssss")
                 db = cliente.ip
-                db.actual.insert_one[ipactual]
+                db.actual.insert_one(ipactual)
                 print("bbbb")
                 cliente.close()
                 print("cccc")

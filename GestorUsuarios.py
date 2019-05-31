@@ -12,17 +12,15 @@ import logging
 from logging import handlers
 from getpass import getuser
 
-print("aaa")
 class GestorUsuarios(object):
     """docstring for GestorUsuarios"""
     def __init__(self,recurrents):
-        print("init")
+        
         super(GestorUsuarios, self).__init__()
         # self.userWeb = None
         PAUSE = 3
         FAILSAFE = False
         self.DICTIONARY_USERS = self.__setUsers(recurrents)
-        print("voy a la mitad")
         self.local_logger = logging.getLogger('super_logger')
         self.local_logger.setLevel(logging.DEBUG)
         self.local_logger.setLevel(logging.INFO)
@@ -34,20 +32,16 @@ class GestorUsuarios(object):
         self.proxy_manager = ValueProxies()
         self.listProxies = []
         self.users = {'padreSonador': {'rangeTime':range(0,24), 'typeUser':'padreSonador'}, 'solteraPlanificadora': {'rangeTime':range(0,24), 'typeUser':'solteraPlanificadora'},'mamaPrimeriza': {'rangeTime':range(0,24), 'typeUser':'mamaPrimeriza'},'inversionista2': {'rangeTime':range(0,24), 'typeUser':'inversionista2'},'solteroAfterOffice': {'rangeTime':range(0,24), 'typeUser':'solteroAfterOffice'},'padreAbuelo': {'rangeTime':range(0,24), 'typeUser':'padreAbuelo'}}
-        print("PASE EL init")
 
     def createUsers(self, timeMinutes):
         ip = self.__get_ip()
-        print("creo usuario")
         startTime = datetime.now()
         timeSeconds = timeMinutes*60
         timeRest = 0 
         timesExecute = 0
         userWebTmp = None
-        print("cree usuario")
 
         try:
-            print("holaaaaaaa")
             while timeRest < timeSeconds:
                 self.setProxies()
 
@@ -85,7 +79,6 @@ class GestorUsuarios(object):
 
 
         except Exception as e:
-            print("me mori")
             print(e)
             self.__set_error(format_exc(), 'E_superuser.txt')
             
