@@ -27,7 +27,7 @@ class GestorUsuarios(object):
         self.local_logger.setLevel(logging.INFO)
         self.local_logger.setLevel(logging.WARNING)
 
-        handler = handlers.TimedRotatingFileHandler('/home/'+getuser()+'/superusercloud/logs_superuser.txt', when='midnight')
+        handler = handlers.TimedRotatingFileHandler('/home/'+getuser()+'/BlackUser/logs_superuser.txt', when='midnight')
         formater = logging.Formatter("%(asctime)s — %(name)s — %(levelname)s — %(funcName)s:%(lineno)d — %(message)s")
         handler.setFormatter(formater)
         self.local_logger.addHandler(handler)
