@@ -13,7 +13,6 @@ from Log import Log
 import numpy as np
 
 cliente = MongoClient()
-db = cliente.IP
 
 class ValueProxies():
     """docstring for ValueProxies"""
@@ -58,6 +57,7 @@ class ValueProxies():
                 res = 1
                 ipactual=respuesta.json()
                 print("aaa")
+                db = cliente.ip
                 db.actual.insert_one[ipactual]
                 print("bbbb")
                 cliente.close()
