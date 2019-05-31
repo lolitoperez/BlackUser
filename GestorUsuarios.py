@@ -133,7 +133,6 @@ class GestorUsuarios(object):
         return dictTmp
 
     def __getUsers(self):
-
         return self.DICTIONARY_USERS[str(randrange(0,10))]
 
 if __name__ == '__main__':

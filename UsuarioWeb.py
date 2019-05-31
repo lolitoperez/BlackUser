@@ -45,8 +45,7 @@ class UsuarioWeb(SuperUser):
         ruta = ''
         self.local_logger.info('Inicia configuracion firefox con datos: '
                                + ip + ' '
-                               + str(port) + ' '
-                               + useragent)
+                               + str(port))
         self.configProfile(ip, port, useragent)
         self.local_logger.info('Finaliza configuracion firefox con datos')
         if urlSite:
