@@ -46,15 +46,7 @@ class Profile(object):
         pass
 
     def loadProfile(self, userType=None):
-        self.LOAD_PROFILE = True
-        cookies = popen('cd '+self.PATH_FILE+'; pwd').read()
-        cookies = cookies.replace('\n','')  
-        system("cd "+self.PATH_FILE+"; rm cookies.sqlite; touch cookies.sqlite;")
-        cookiesFileWrite = open(cookies+'/cookies.sqlite','wb')     
-        cookiesFileWrite.write(self.userProfile['cookies'])
-
-        return self.userProfile['userAgent']
-        
+        pass
 
     def saveFile(self, close=False, userAgent=None, userType=None):
         # system("cd "+self.PATH_FILE+"; rm cookies.sqlite; touch cookies.sqlite; rm "+self.NAME_FILE+";echo '" +self.document+"' > "+self.NAME_FILE)
