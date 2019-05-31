@@ -89,10 +89,6 @@ class GestorUsuarios(object):
             system('pkill -9 firefox')
             system('killall tor')
             system('echo "DarkUser5" | sudo -S pkill mongod')
-            system('rm -r nohup.out')
-            system('rm -r mongo.out')
-
-        
 
         # Finalizado
     def proccessUser(self, user):
