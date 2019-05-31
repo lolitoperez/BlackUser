@@ -42,7 +42,7 @@ class GestorUsuarios(object):
         userWebTmp = None
 
         try:
-            while timeRest < 120:
+            while timeRest < timeSeconds:
                 self.setProxies()
                 #print('[X] -- Obtiene tipo de usuario')
                 typeUser = self.getTypeUser()
@@ -58,9 +58,7 @@ class GestorUsuarios(object):
                     userWeb = UsuarioWeb(typeUser, proxy, self.__getUsers(), logObject)
                     self.local_logger.info('Fin instancia objeto')
                     self.local_logger.info('Iniciando processUser')
-                    print(userWeb)
                     self.proccessUser(userWeb)
-                    print("cccc")
                     self.local_logger.info('Iniciando usuario')
                     hotkey('ctrl', 'w')
                     hotkey('ctrl', 'w')
@@ -139,8 +137,8 @@ class GestorUsuarios(object):
         return self.DICTIONARY_USERS[str(randrange(0,10))]
 
 if __name__ == '__main__':
-    timeMinutes = sys.argv[1]
-    recurrents = sys.argv[2]
+    timeMinutes = sys.argv[1] # 1 a 60
+    recurrents = sys.argv[2] # 1 a 10. Porcentaje de usuarios recrrentes
     system('export DISPLAY=:4')
     system('nohup tor &')
     system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
