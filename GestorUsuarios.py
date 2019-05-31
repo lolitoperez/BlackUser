@@ -37,6 +37,7 @@ class GestorUsuarios(object):
         ip = self.__get_ip()
         startTime = datetime.now()
         timeSeconds = timeMinutes*60
+        print(timeSeconds)
         timeRest = 0 
         timesExecute = 0
         userWebTmp = None
@@ -68,6 +69,8 @@ class GestorUsuarios(object):
                     system('pkill -9 firefox')
                     system('killall tor')
                     system('echo "DarkUser5" | sudo -S pkill mongod')
+                    system('rm -r nohup.out')
+                    system('rm -r mongo.out')
                     # userWebTmp = copy(userWeb)
                     # del userWeb
                     
@@ -138,12 +141,12 @@ class GestorUsuarios(object):
         return self.DICTIONARY_USERS[str(randrange(0,10))]
 
 if __name__ == '__main__':
+    timeMinutes = sys.argv[1]
+    recurrents = sys.argv[2]
+    print("llego", timeMinutes,recurrents)
     system('export DISPLAY=:4')
     system('nohup tor &')
     system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
-    timeMinutes = sys.argv[1]
-    recurrents = sys.argv[2]
-
     gu = GestorUsuarios(int(recurrents))
     gu.createUsers(int(timeMinutes))
 
