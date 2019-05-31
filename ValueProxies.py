@@ -54,7 +54,7 @@ class ValueProxies():
             try:
                 system('nohup tor &')
                 system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
-                respuesta = session.get('http://ipinfo.io/json')
+                respuesta = session.get('https://ipapi.co/json')
                 ipactual=respuesta.json()
                 db = cliente.ip
                 ipguardadas = []
@@ -66,7 +66,10 @@ class ValueProxies():
                         db.actual.insert_one(ipactual)
                     res = 1
                 except:
-                    pass
+                    system('killall tor')
+                    system('echo "DarkUser5" | sudo -S pkill mongod')
+                    system('echo "DarkUser5" | sudo -S rm -r mongo.out')
+                    system('echo "DarkUser5" | sudo -S rm -r nohup.out')
                 cliente.close()
             except Exception as e:
                 system('killall tor')

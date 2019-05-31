@@ -11,6 +11,9 @@ import sys
 import logging
 from logging import handlers
 from getpass import getuser
+from pymongo import MongoClient
+
+cliente = MongoClient()
 
 class GestorUsuarios(object):
     """docstring for GestorUsuarios"""
@@ -60,6 +63,8 @@ class GestorUsuarios(object):
                     self.local_logger.info('Iniciando processUser')
                     self.proccessUser(userWeb)
                     self.local_logger.info('Iniciando usuario')
+                    db = cliente.funciono
+
                     hotkey('ctrl', 'w')
                     hotkey('ctrl', 'w')
                     system('pkill -9 firefox')
