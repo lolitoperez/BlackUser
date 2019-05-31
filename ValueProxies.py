@@ -54,8 +54,13 @@ class ValueProxies():
             try:
                 system('nohup tor &')
                 system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
-                respuesta = session.get('https://ipapi.co/json')
-                ipactual=respuesta.json()
+                try:
+                    respuesta = session.get('https://ipinfo.io/json')
+                    ipactual=respuesta.json()
+                except: 
+                    respuesta = session.get('https://ipapi.co/json')
+                    ipactual=respuesta.json()
+                print(ipactual)
                 db = cliente.ip
                 ipguardadas = []
                 algo = db.actual.find({})
