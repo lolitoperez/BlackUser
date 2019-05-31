@@ -13,6 +13,8 @@ from fake_useragent import UserAgent
 from Log import Log
 import numpy as np
 
+cliente = MongoClient()
+
 class ValueProxies():
     """docstring for ValueProxies"""
     def __init__(self):
@@ -51,7 +53,6 @@ class ValueProxies():
             session.proxies['https'] = 'socks5h://localhost:9050'
             try:
                 system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
-                cliente = MongoClient()
                 respuesta = session.get('http://ipinfo.io/json')
                 res = 1
                 ipactual=respuesta.json()
