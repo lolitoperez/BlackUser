@@ -6,7 +6,7 @@ import requests
 
 class Saca:
 
-	def obtener_proxy_buena():
+    def obtener_proxy_buena():
         intentos = 0
         puerto = '9050'
         res  = None
@@ -83,4 +83,4 @@ class Saca:
 
 
 while():
-	Saca.obtener_proxy_buena()
+    Saca.obtener_proxy_buena()
