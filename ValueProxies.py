@@ -65,6 +65,7 @@ class ValueProxies():
                     if ipactual['ip'] not in ipguardadas:
                         db.actual.insert_one(ipactual)
                 except:
+                    pass
                 cliente.close()
             except Exception as e:
                 print(e)
