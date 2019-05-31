@@ -72,7 +72,6 @@ class GestorUsuarios(object):
                     system('rm -r mongo.out')
                     # userWebTmp = copy(userWeb)
                     # del userWeb
-                    
                 else:
                     timesExecute = timesExecute + 1
                     system('echo "DarkUser5" | sudo -S pkill mongod')

@@ -46,16 +46,14 @@ class ValueProxies():
         intentos = 0
         puerto = '9050'
         res  = None
+        system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
         while not res:
             session = requests.session()
             session.proxies = {}
             session.proxies['http'] = 'socks5h://localhost:9050'
             session.proxies['https'] = 'socks5h://localhost:9050'
             try:
-                print("prendo tor y mongo")
                 system('nohup tor &')
-                system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
-                print("los prendi tor y mongo")
                 try:
                     respuesta = session.get('https://ipinfo.io/json')
                     ipactual=respuesta.json()
@@ -73,17 +71,10 @@ class ValueProxies():
                         db.actual.insert_one(ipactual)
                     res = 1
                 except:
-                    print("mori")
-                    system('killall tor')
-                    system('echo "DarkUser5" | sudo -S pkill mongod')
-                    system('echo "DarkUser5" | sudo -S rm -r mongo.out')
-                    system('echo "DarkUser5" | sudo -S rm -r nohup.out')
+                    pass
                 cliente.close()
             except Exception as e:
-                print("mori x2")
                 system('killall tor')
-                system('echo "DarkUser5" | sudo -S pkill mongod')
-                system('echo "DarkUser5" | sudo -S rm -r mongo.out')
                 system('echo "DarkUser5" | sudo -S rm -r nohup.out')
                 cliente.close()
                 #print("Supero el timeout")
