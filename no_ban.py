@@ -9,14 +9,14 @@ class Saca:
 
     def obtener_proxy_buena():
         intentos = 0
-        puerto = '9050'
+        puerto = '9150'
         res  = None
         system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
         while not res:
             session = requests.session()
             session.proxies = {}
-            session.proxies['http'] = 'socks5h://localhost:9050'
-            session.proxies['https'] = 'socks5h://localhost:9050'
+            session.proxies['http'] = 'socks5h://localhost:'+puerto
+            session.proxies['https'] = 'socks5h://localhost:'+puerto
             try:
                 system('nohup tor &')
                 try:
