@@ -9,7 +9,7 @@ class Saca:
 
     def obtener_proxy_buena():
         intentos = 0
-        puerto = '9150'
+        puerto = '9050'
         res  = None
         system('echo "DarkUser5" | sudo -S nohup mongod &> mongo.out')
         while not res:

@@ -64,10 +64,10 @@ class KeyBoard(object):
             else:
                 self.local_logger.info('Encontré la imagen')
                 #print('[X]----- encontre la imagen')
-                typewrite('suSistemas2') ##usuario
+                typewrite('su') ##usuario
 
                 press('tab')
-                typewrite('rrevimexx') ##contra
+                typewrite('rre') ##contra
                 press('enter')
                 self.local_logger.info('Escibrí usuario y contraseña')
                 return True
@@ -108,7 +108,7 @@ class KeyBoard(object):
                 if isInScreen:
                     break
                 else:
-                    isInScreen, location = self.findImage(self.PATH_IMAGE + '/' + 'letshome2' + '.png', True, .9)
+                    isInScreen, location = self.findImage(self.PATH_IMAGE + '/' + 'propiedades' + '.png', True, .9)
                     if isInScreen:
                         break
                     
@@ -160,7 +160,7 @@ class KeyBoard(object):
                 press('esc')
                 press('esc')
                 self.local_logger.info('Intento ' + str(attempts))
-                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+imagen+ '.png',True, .6)
+                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+'regresar'+ '.png',True, .6)
                 if isInScreen:
                     break
                 
