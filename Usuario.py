@@ -138,7 +138,7 @@ class Usuario:
             
             url_elegido=self.links_nuevos[int(np.random.uniform(0,len(self.links_nuevos)+1))]
             self.log_url.set_url_buscado(url_elegido)
-            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')+' letshome' #self.frase(4)
+            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ') #self.frase(4)
             return {'tipo':self.tipo,'userAgent':self.userAgent,'horario':self.horario,'tipoUserAgent':self.tipoUserAgent,'palabrasClave':self.palabrasClave,'edad':self.edad,'Sexo':self.sexo,'ingresos':self.ingresos,'estadoParental':self.estadoParental}
 
         elif self.tipo == 'solteraPlanificadora':
@@ -291,7 +291,7 @@ class Usuario:
 
             url_elegido=self.links_nuevos[int(np.random.uniform(0,len(self.links_nuevos)+1))]
             self.log_url.set_url_buscado(url_elegido)
-            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')+' letshome' #self.frase(4)
+            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ') #self.frase(4)
             return {'tipo':self.tipo,'userAgent':self.userAgent,'horario':self.horario,'tipoUserAgent':self.tipoUserAgent,'palabrasClave':self.palabrasClave,'edad':self.edad,'Sexo':self.sexo,'ingresos':self.ingresos,'estadoParental':self.estadoParental}
         
         elif self.tipo == 'inversionista2':
@@ -410,7 +410,7 @@ class Usuario:
 
             url_elegido=self.links_nuevos[int(np.random.uniform(0,len(self.links_nuevos)+1))]
             self.log_url.set_url_buscado(url_elegido)
-            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')+' letshome' #self.frase(4)
+            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ') #self.frase(4)
             return {'tipo':self.tipo,'userAgent':self.userAgent,'horario':self.horario,'tipoUserAgent':self.tipoUserAgent,'palabrasClave':self.palabrasClave,'edad':self.edad,'Sexo':self.sexo,'ingresos':self.ingresos,'estadoParental':self.estadoParental}
         
         elif self.tipo == 'solteroAfterOffice':
@@ -488,7 +488,7 @@ class Usuario:
             #   self.palabrasClave = listKeywords[randrange(0,len(listKeywords))] #self.frase(4)
             url_elegido=self.links_nuevos[int(np.random.uniform(0,len(self.links_nuevos)+1))]
             self.log_url.set_url_buscado(url_elegido)
-            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')+' letshome' #self.frase(4)
+            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')#self.frase(4)
             return {'tipo':self.tipo,'userAgent':self.userAgent,'horario':self.horario,'tipoUserAgent':self.tipoUserAgent,'palabrasClave':self.palabrasClave,'edad':self.edad,'Sexo':self.sexo,'ingresos':self.ingresos,'estadoParental':self.estadoParental}
         
         elif self.tipo == 'padreAbuelo':
@@ -600,5 +600,5 @@ class Usuario:
             # try:
             url_elegido=self.links_nuevos[int(np.random.uniform(0,len(self.links_nuevos)+1))]
             self.log_url.set_url_buscado(url_elegido)
-            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')+' letshome' #self.frase(4)
+            self.palabrasClave = url_elegido.replace('https:/www.letshome.com.mx/','').replace('/',' ').replace('-',' ')#self.frase(4)
             return {'tipo':self.tipo,'userAgent':self.userAgent,'horario':self.horario,'tipoUserAgent':self.tipoUserAgent,'palabrasClave':self.palabrasClave,'edad':self.edad,'Sexo':self.sexo,'ingresos':self.ingresos,'estadoParental':self.estadoParental}
