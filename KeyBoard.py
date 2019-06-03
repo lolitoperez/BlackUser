@@ -103,7 +103,7 @@ class KeyBoard(object):
             attempts = 0
             self.local_logger.info('Iniciando intentos')
             while attempts < 5:
-                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+site + '.png',True, .9)### find letshome
+                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+'propiedadescel' + '.png',True, .9)### find letshome
                 #isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+'testing' + '.png',True, .8)### find testingrevimex
                 if isInScreen:
                     break
