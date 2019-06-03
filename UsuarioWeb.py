@@ -100,6 +100,9 @@ class UsuarioWeb(SuperUser):
         # self.setProfile('general.useragent.override', userAgent)
         # self.setProfile('intl.accept_languages', 'es-mx')
 
+        self.setProfile('network.proxy.type', 0)
+        self.deleteProfile('general.useragent.override')
+
         self.profile.saveFile()
 
     def closeSession(self, userAgent, userType):
