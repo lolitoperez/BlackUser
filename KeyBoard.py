@@ -179,7 +179,7 @@ class KeyBoard(object):
             intentos = intentos + 1
 
             if isInScreen:
-                log_url.set_url_clickeado(self.obtener_url_de_barra_de_busqueda())
+                #log_url.set_url_clickeado(self.obtener_url_de_barra_de_busqueda())
                 self.local_logger.info('Encontrada imagen ' + imagen)
                 centerImage = location
                 click(centerImage)
