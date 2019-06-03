@@ -83,25 +83,22 @@ class UsuarioWeb(SuperUser):
     def configProfile(self, ip, port, userAgent):
         self.getProfile()
 
-        # # self.deleteProfile('print.macosx.pagesetup-2')
-        # self.setProfile('network.proxy.ftp', '')
-        # self.setProfile('network.proxy.http', '')
-        # self.setProfile('network.proxy.socks', '127.0.0.1')
-        # self.setProfile('network.proxy.ssl', '')
+        # self.deleteProfile('print.macosx.pagesetup-2')
+        self.setProfile('network.proxy.ftp', '')
+        self.setProfile('network.proxy.http', '')
+        self.setProfile('network.proxy.socks', '127.0.0.1')
+        self.setProfile('network.proxy.ssl', '')
 
-        # self.setProfile('network.proxy.ftp_port', None)
-        # self.setProfile('network.proxy.http_port', None)
-        # self.setProfile('network.proxy.socks_port', 9050)
-        # self.setProfile('network.proxy.ssl_port', None)
+        self.setProfile('network.proxy.ftp_port', None)
+        self.setProfile('network.proxy.http_port', None)
+        self.setProfile('network.proxy.socks_port', 9050)
+        self.setProfile('network.proxy.ssl_port', None)
 
-        # self.setProfile('network.proxy.type', 1)
-        # self.setProfile("browser.sessionstore.resume_from_crash",False)
-        # #print('[X] -- Useragent ',userAgent)
-        # self.setProfile('general.useragent.override', userAgent)
-        # self.setProfile('intl.accept_languages', 'es-mx')
-
-        self.setProfile('network.proxy.type', 0)
-        self.deleteProfile('general.useragent.override')
+        self.setProfile('network.proxy.type', 1)
+        self.setProfile("browser.sessionstore.resume_from_crash",False)
+        #print('[X] -- Useragent ',userAgent)
+        self.setProfile('general.useragent.override', userAgent)
+        self.setProfile('intl.accept_languages', 'es-mx')
 
         self.profile.saveFile()
 
