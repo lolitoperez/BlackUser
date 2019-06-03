@@ -60,7 +60,7 @@ class SuperUser(object):
             while timeStart < timeEnd:
                 #print('[X] -- En sesión')
 
-                if cambiarPagina and timeStart >= 60:#60
+                if cambiarPagina and timeStart >= 1:#60
                     self.local_logger.info('Cambiaré a la página: ' + imagen)
                     exito=self.keyBoardUser.changePage(imagen,log_url)
                     self.local_logger.info('Resultado: ' + exito)
