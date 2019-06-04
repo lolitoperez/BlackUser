@@ -97,7 +97,7 @@ class UsuarioWeb(SuperUser):
         self.setProfile('network.proxy.type', 1)
         self.setProfile("browser.sessionstore.resume_from_crash",False)
         #print('[X] -- Useragent ',userAgent)
-        #self.setProfile('general.useragent.override', userAgent)
+        self.setProfile('general.useragent.override', userAgent)
         self.setProfile('intl.accept_languages', 'es-mx')
 
         self.profile.saveFile()

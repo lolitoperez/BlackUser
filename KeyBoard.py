@@ -64,10 +64,10 @@ class KeyBoard(object):
             else:
                 self.local_logger.info('Encontré la imagen')
                 #print('[X]----- encontre la imagen')
-                typewrite('su') ##usuario
+                typewrite('suSiste') ##usuario
 
                 press('tab')
-                typewrite('rre') ##contra
+                typewrite('rxx') ##contra
                 press('enter')
                 self.local_logger.info('Escibrí usuario y contraseña')
                 return True
@@ -103,12 +103,12 @@ class KeyBoard(object):
             attempts = 0
             self.local_logger.info('Iniciando intentos')
             while attempts < 5:
-                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+'propiedadescel' + '.png',True, .9)### find letshome
+                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+site + '.png',True, .9)### find letshome
                 #isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+'testing' + '.png',True, .8)### find testingrevimex
                 if isInScreen:
                     break
                 else:
-                    isInScreen, location = self.findImage(self.PATH_IMAGE + '/' + 'propiedades' + '.png', True, .9)
+                    isInScreen, location = self.findImage(self.PATH_IMAGE + '/' + 'letshome2' + '.png', True, .9)
                     if isInScreen:
                         break
                     
@@ -160,7 +160,7 @@ class KeyBoard(object):
                 press('esc')
                 press('esc')
                 self.local_logger.info('Intento ' + str(attempts))
-                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+'regresar'+ '.png',True, .6)
+                isInScreen, location = self.findImage(self.PATH_IMAGE+'/'+imagen+ '.png',True, .6)
                 if isInScreen:
                     break
                 
@@ -179,7 +179,7 @@ class KeyBoard(object):
             intentos = intentos + 1
 
             if isInScreen:
-                #log_url.set_url_clickeado(self.obtener_url_de_barra_de_busqueda())
+                log_url.set_url_clickeado(self.obtener_url_de_barra_de_busqueda())
                 self.local_logger.info('Encontrada imagen ' + imagen)
                 centerImage = location
                 click(centerImage)
